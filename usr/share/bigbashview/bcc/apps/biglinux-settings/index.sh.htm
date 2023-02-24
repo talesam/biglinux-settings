@@ -288,11 +288,7 @@ cat << EOF
                         </div>
                   </div> 
                 </div>
-              </li>
-EOF
-
-##Usabilidade
-cat << EOF
+              </li>              
             </ul>
           </div>
           <br>
@@ -457,15 +453,9 @@ cat << EOF
                 <div class="button-wrapper">
                   <input id="n0" onclick="_run('./numlock.run')" type="checkbox" class="switch" style="top: 3px;" $checked_confnumlock>
                 </div>
-              </div>
-            </li>    
-EOF
-fi
-#KDE Plasma End
-
-
-cat << EOF
+              </li>    
             </ul>
+          </div>
           <div class="biglinux-dashboard">
             <div class="biglinux-left-panel">
               <div class="pop-up">
@@ -479,6 +469,8 @@ cat << EOF
                   <div id="desc">
                     <ul id="menu">
 EOF
+fi
+#KDE Plasma End
 
 
 func-preload() {
@@ -549,6 +541,31 @@ cat << EOF
 
 <!-- partial -->
 <script src='/usr/share/bigbashview/bcc/materialize/js/jquery.js'></script><script  src="./script.js"></script>
+EOF
+if [ "$desktop_actual" = "classic" ]; then
+  echo '<script>$(document).ready(function(){$(`#linkClassic`).toggleClass("disabled-link");});</script>'
+fi
+
+if [ "$desktop_actual" = "new" ]; then
+  echo '<script>$(document).ready(function(){$(`#linkNew`).toggleClass("disabled-link");});</script>'
+fi
+
+if [ "$desktop_actual" = "modern" ]; then
+  echo '<script>$(document).ready(function(){$(`#linkModern`).toggleClass("disabled-link");});</script>'
+fi
+
+if [ "$desktop_actual" = "kunity" ]; then
+  echo '<script>$(document).ready(function(){$(`#linkKunity`).toggleClass("disabled-link");});</script>'
+fi
+
+if [ "$desktop_actual" = "nextg" ]; then
+  echo '<script>$(document).ready(function(){$(`#linkNextg`).toggleClass("disabled-link");});</script>'
+fi
+
+if [ "$desktop_actual" = "desk-x" ]; then
+  echo '<script>$(document).ready(function(){$(`#linkDesk-x`).toggleClass("disabled-link");});</script>'
+fi
+cat << EOF
 </body>
 </html>
 EOF
