@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Выбранная конфигурация рабочего стола уже использовалась в этой системе,\n"
-"хотите ли вы восстановить уже использованную конфигурацию?\n"
-"\n"
-"Выберите нет, чтобы использовать конфигурацию системы по умолчанию.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Конфигурация применена!\n"
-"\n"
-"Выйдите из системы и снова войдите в систему\n"
-"для завершения конфигурации\n"
-"применяется."
+msgid "Ajustes"
+msgstr "Настройки"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Если вы используете браузер, перезапустите его, чтобы применить изменения."
-
-msgid "Desempenho em modo normal!"
-msgstr "Производительность в нормальном режиме!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Производительность в режиме производительности!"
@@ -69,54 +43,17 @@ msgstr "Подать заявку, подождать..."
 msgid "Concluído!"
 msgstr "Договорились!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Производительность в усиленном режиме!"
-
-msgid "Temas"
-msgstr "Темы"
-
-msgid "Desktop"
-msgstr "Рабочий стол"
-
-msgid "Ajustes"
-msgstr "Настройки"
-
-msgid "Desempenho do desktop"
-msgstr "Производительность рабочего стола"
-
 msgid "Desempenho"
 msgstr "Производительность"
 
 msgid "Aceleração do navegador"
 msgstr "Ускорение работы браузера"
 
-msgid "Tema dos aplicativos"
-msgstr "Тема приложения"
-
 msgid "Abrir"
 msgstr "Открытый"
 
 msgid "Fechar"
 msgstr "Закрыть"
-
-msgid "Bordas arredondadas."
-msgstr "Закругленные края."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"В этой теме есть прозрачности с эффектами, которые могут<br>замедлить работу системы на старых "
-"компьютерах<br>или в виртуальных средах."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Классический</b>, <b>Новый</b> и <b>Современный</b> - лучшие варианты."
-
-msgid "Renderizar o desktop via software"
-msgstr "Рендеринг рабочего стола с помощью программного обеспечения"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Это может быть полезно на старых компьютерах, но некоторые программы перестают работать)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Выбор программ, которые будут загружаться в память при загрузке компьютера"
@@ -176,36 +113,11 @@ msgstr "Скрыть Менеджер загрузки (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Включение NumLock при запуске системы"
 
-msgid "Tema aplicado"
-msgstr "Применяемая тематика"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Для завершения настройки необходимо перезапустить сеанс."
-
-msgid "Configuração do Desktop"
-msgstr "Конфигурация рабочего стола"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Использовали ли вы этот рабочий стол раньше, хотите ли вы восстановить его настройки или "
-"использовать оригинальную конфигурацию?"
-
 msgid "Sim"
 msgstr "Да"
 
 msgid "Não"
 msgstr "Нет"
-
-msgid "Original"
-msgstr "Оригинал"
-
-msgid "Restaurar"
-msgstr "Восстановить"
-
-msgid "Desktop aplicado"
-msgstr "Настольное приложение"
 
 msgid "Modo performance"
 msgstr "Режим производительности"
@@ -216,5 +128,8 @@ msgstr "BTRFS без fsync"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "При использовании программного рендеринга качество прозрачности снижается."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Темы, рабочий стол и настройки"
+msgid "Desempenho em modo otimizado!"
+msgstr "Производительность в усиленном режиме!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Производительность в нормальном режиме!"

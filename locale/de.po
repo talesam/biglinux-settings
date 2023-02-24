@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Die ausgewählte Desktop-Konfiguration wurde bereits auf diesem System verwendet,\n"
-"möchten Sie die bereits verwendete Konfiguration wiederherstellen?\n"
-"\n"
-"Wählen Sie nein, um die Standard-Systemkonfiguration zu verwenden.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Konfiguration angewendet!\n"
-"\n"
-"Abmelden und erneut anmelden\n"
-"bis die Konfiguration abgeschlossen ist\n"
-"angewendet."
+msgid "Ajustes"
+msgstr "Einstellungen"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Wenn Sie einen Browser verwenden, starten Sie ihn neu, um die Änderungen zu übernehmen."
-
-msgid "Desempenho em modo normal!"
-msgstr "Leistung im normalen Modus!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Leistung im Leistungsmodus!"
@@ -71,54 +45,17 @@ msgstr "Bewerben, warten..."
 msgid "Concluído!"
 msgstr "Fertig!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Leistung im erweiterten Modus!"
-
-msgid "Temas"
-msgstr "Themen"
-
-msgid "Desktop"
-msgstr "Schreibtisch"
-
-msgid "Ajustes"
-msgstr "Einstellungen"
-
-msgid "Desempenho do desktop"
-msgstr "Desktop-Leistung"
-
 msgid "Desempenho"
 msgstr "Leistung"
 
 msgid "Aceleração do navegador"
 msgstr "Browser-Beschleunigung"
 
-msgid "Tema dos aplicativos"
-msgstr "Thema der Anwendung"
-
 msgid "Abrir"
 msgstr "Offen"
 
 msgid "Fechar"
 msgstr "Schließen Sie"
-
-msgid "Bordas arredondadas."
-msgstr "Abgerundete Kanten."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Dieses Thema enthält Transparenzen mit Effekten, die<br>das System auf älteren<br>Computern oder "
-"virtualisierten Umgebungen verlangsamen können."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Klassisch</b>, <b>Neu</b> und <b>Modern</b> funktionieren am besten."
-
-msgid "Renderizar o desktop via software"
-msgstr "Rendering des Desktops per Software"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Es kann auf älteren Computern nützlich sein, aber einige Programme funktionieren nicht mehr)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Programme auswählen, die beim Booten in den Speicher geladen werden sollen"
@@ -178,36 +115,11 @@ msgstr "Bootmanager ausblenden (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "NumLock beim Systemstart einschalten"
 
-msgid "Tema aplicado"
-msgstr "Angewandtes Thema"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Sie müssen die Sitzung neu starten, um die Konfiguration abzuschließen."
-
-msgid "Configuração do Desktop"
-msgstr "Desktop-Konfiguration"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Haben Sie diesen Desktop schon einmal verwendet, möchten Sie seine Anpassung wiederherstellen oder "
-"die ursprüngliche Konfiguration verwenden?"
-
 msgid "Sim"
 msgstr "Ja"
 
 msgid "Não"
 msgstr "Nein"
-
-msgid "Original"
-msgstr "Original"
-
-msgid "Restaurar"
-msgstr "Wiederherstellen"
-
-msgid "Desktop aplicado"
-msgstr "Desktop angewendet"
 
 msgid "Modo performance"
 msgstr "Leistungsmodus"
@@ -218,5 +130,8 @@ msgstr "BTRFS ohne fsync"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop und Einstellungen"
+msgid "Desempenho em modo otimizado!"
+msgstr "Leistung im erweiterten Modus!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Leistung im normalen Modus!"

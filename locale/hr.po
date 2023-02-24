@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Odabrana konfiguracija radne površine već je korištena na ovom sustavu,\n"
-"želite li vratiti konfiguraciju koja je već korištena?\n"
-"\n"
-"Odaberite ne da biste koristili zadanu postavku sustava.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Primijenjena konfiguracija!\n"
-"\n"
-"Odjavite se i ponovno se prijavite\n"
-"kako bi konfiguracija završila\n"
-"primjenjivati."
+msgid "Ajustes"
+msgstr "ugađanje"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ako koristite preglednik, ponovno ga pokrenite da biste primijenili promjene."
-
-msgid "Desempenho em modo normal!"
-msgstr "Izvedba u normalnom načinu rada!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Performanse u načinu rada!"
@@ -69,54 +43,17 @@ msgstr "Prijava, čekanje..."
 msgid "Concluído!"
 msgstr "Učinjeno!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanse u optimiziranom načinu!"
-
-msgid "Temas"
-msgstr "Teme"
-
-msgid "Desktop"
-msgstr "Desktop"
-
-msgid "Ajustes"
-msgstr "ugađanje"
-
-msgid "Desempenho do desktop"
-msgstr "Učinak radne površine"
-
 msgid "Desempenho"
 msgstr "Izvedba"
 
 msgid "Aceleração do navegador"
 msgstr "Ubrzanje preglednika"
 
-msgid "Tema dos aplicativos"
-msgstr "Tema aplikacija"
-
 msgid "Abrir"
 msgstr "Otvoren"
 
 msgid "Fechar"
 msgstr "Zatvoriti"
-
-msgid "Bordas arredondadas."
-msgstr "Zaobljeni rubovi."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Ova tema ima prozirne folije s efektima koji <br>mogu usporiti sustav na <br>starim računalima ili "
-"virtualiziranim okruženjima."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Klasični</b>,<b>novi</b>i<b>moderni imaju</b>bolji učinak."
-
-msgid "Renderizar o desktop via software"
-msgstr "Render radnu površinu putem softvera"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Može biti korisno na starijim računalima, ali neki programi prestaju raditi)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Odaberite programe za učitavanje u memoriju tijekom pokretanja"
@@ -176,36 +113,11 @@ msgstr "Sakrij upravitelja pokretanja (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Aktivirajte NumLock prilikom uključivanja sustava"
 
-msgid "Tema aplicado"
-msgstr "Primijenjena tema"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Da biste dovršili konfiguraciju, morate ponovo pokrenuti sesiju."
-
-msgid "Configuração do Desktop"
-msgstr "Postavljanje radne površine"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Jeste li prije koristili ovu radnu površinu, želite li vratiti njezinu personalizaciju ili "
-"upotrijebiti izvornu konfiguraciju?"
-
 msgid "Sim"
 msgstr "Da"
 
 msgid "Não"
 msgstr "Ne"
-
-msgid "Original"
-msgstr "Izvorni"
-
-msgid "Restaurar"
-msgstr "Vrati"
-
-msgid "Desktop aplicado"
-msgstr "Primijenjena radna površina"
 
 msgid "Modo performance"
 msgstr "Način rada s performansama"
@@ -216,5 +128,8 @@ msgstr "BTRFS bez fsynca"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Korištenjem prikazivanja softvera smanjuje se kvaliteta prozirnih folija."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teme, radna površina i prilagodbe"
+msgid "Desempenho em modo otimizado!"
+msgstr "Performanse u optimiziranom načinu!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Izvedba u normalnom načinu rada!"

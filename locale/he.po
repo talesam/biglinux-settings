@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"תצורת שולחן העבודה שנבחרה כבר בשימוש במערכת זו,\n"
-"האם ברצונך לשחזר את התצורה שכבר נעשה בה שימוש?\n"
-"\n"
-"בחר לא כדי להשתמש בהגדרת ברירת המחדל של המערכת.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"תצורה הוחלה!\n"
-"\n"
-"צא והיכנס שוב\n"
-"עבור התצורה כדי לסיים\n"
-"להיות מיושם."
+msgid "Ajustes"
+msgstr "tweaks"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את השינויים."
-
-msgid "Desempenho em modo normal!"
-msgstr "ביצועים במצב רגיל!"
 
 msgid "Desempenho em modo performance!"
 msgstr "ביצועים במצב ביצועים!"
@@ -69,52 +43,17 @@ msgstr "הגשת מועמדות, חכה..."
 msgid "Concluído!"
 msgstr "לעשות!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "ביצועים במצב מותאם!"
-
-msgid "Temas"
-msgstr "נושאים"
-
-msgid "Desktop"
-msgstr "שולחן עבודה"
-
-msgid "Ajustes"
-msgstr "tweaks"
-
-msgid "Desempenho do desktop"
-msgstr "ביצועי מחשב שולחני"
-
 msgid "Desempenho"
 msgstr "ביצועים"
 
 msgid "Aceleração do navegador"
 msgstr "האצת דפדפן"
 
-msgid "Tema dos aplicativos"
-msgstr "נושא אפליקציות"
-
 msgid "Abrir"
 msgstr "פתוח"
 
 msgid "Fechar"
 msgstr "סגור"
-
-msgid "Bordas arredondadas."
-msgstr "קצוות מעוגלים."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr "לנושא זה שקפים עם אפקטים <br>שיכולים להאט את המערכת <br>במחשבים ישנים או בסביבות וירטואליות."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>קלאסי</b>,<b>חדש</b><b>ומודרני</b>ביצועים טובים יותר."
-
-msgid "Renderizar o desktop via software"
-msgstr "לעבד את שולחן העבודה באמצעות תוכנה"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(זה עשוי להיות שימושי במחשבים ישנים יותר, אבל תוכניות מסוימות מפסיקות לעבוד)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "בחר תוכניות לטעינה לזיכרון במהלך האתחול"
@@ -172,34 +111,11 @@ msgstr "הסתר את מנהל האתחול (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "הפעל את NumLock בעת הפעלת המערכת"
 
-msgid "Tema aplicado"
-msgstr "נושא יישומי"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "עליך להפעיל מחדש את ההפעלה כדי להשלים את התצורה."
-
-msgid "Configuração do Desktop"
-msgstr "הגדרת שולחן עבודה"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr "האם השתמשת בשולחן העבודה הזה בעבר, האם ברצונך לשחזר את ההתאמה האישית שלו או להשתמש בתצורה המקורית?"
-
 msgid "Sim"
 msgstr "הן"
 
 msgid "Não"
 msgstr "לא"
-
-msgid "Original"
-msgstr "מקורי"
-
-msgid "Restaurar"
-msgstr "שחזור"
-
-msgid "Desktop aplicado"
-msgstr "שולחן עבודה יישומי"
 
 msgid "Modo performance"
 msgstr "מצב ביצועים"
@@ -210,5 +126,8 @@ msgstr "BTRFS ללא fsync"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "על ידי שימוש בעיבוד תוכנה, איכות השקפים מופחתת."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "ערכות נושא, שולחן עבודה והתאמות"
+msgid "Desempenho em modo otimizado!"
+msgstr "ביצועים במצב מותאם!"
+
+msgid "Desempenho em modo normal!"
+msgstr "ביצועים במצב רגיל!"

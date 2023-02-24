@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"선택한 데스크톱 구성이 이 시스템에서 이미 사용되었습니다.\n"
-"이미 사용된 구성을 복원하시겠습니까?\n"
-"\n"
-"기본 시스템 설정을 사용하려면 no를 선택합니다.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"구성이 적용되었습니다!\n"
-"\n"
-"로그아웃했다가 다시 로그인\n"
-"구성을 마칠 수 있습니다.\n"
-"적용될 수 있습니다."
+msgid "Ajustes"
+msgstr "비틀기"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "브라우저를 사용하는 경우 브라우저를 다시 시작하여 변경 내용을 적용합니다."
-
-msgid "Desempenho em modo normal!"
-msgstr "일반 모드에서의 성능!"
 
 msgid "Desempenho em modo performance!"
 msgstr "퍼포먼스 모드에서의 퍼포먼스!"
@@ -69,52 +43,17 @@ msgstr "적용 중, 잠깐만..."
 msgid "Concluído!"
 msgstr "수행!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "최적화된 모드에서의 성능!"
-
-msgid "Temas"
-msgstr "토픽"
-
-msgid "Desktop"
-msgstr "데스크탑"
-
-msgid "Ajustes"
-msgstr "비틀기"
-
-msgid "Desempenho do desktop"
-msgstr "데스크탑 성능"
-
 msgid "Desempenho"
 msgstr "공연"
 
 msgid "Aceleração do navegador"
 msgstr "브라우저 가속"
 
-msgid "Tema dos aplicativos"
-msgstr "앱 테마"
-
 msgid "Abrir"
 msgstr "열다"
 
 msgid "Fechar"
 msgstr "닫기"
-
-msgid "Bordas arredondadas."
-msgstr "모서리가 둥글다."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr "이 테마에는 <br><br>이전 컴퓨터 또는 가상화된 환경에서 시스템 속도를 저하시킬 수 있는 효과가 있는 투명 필름이 있습니다."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>클래식</b>, <b>뉴</b>, <b>모던 퍼포먼스가</b> 더 좋습니다."
-
-msgid "Renderizar o desktop via software"
-msgstr "소프트웨어를 통한 데스크탑 렌더링"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(구형 컴퓨터에서는 유용 할 수 있지만 일부 프로그램은 작동을 멈 춥니 다)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "부팅 중에 메모리에 로드할 프로그램 선택"
@@ -172,34 +111,11 @@ msgstr "부트 관리자 숨기기 (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "시스템을 켤 때 NumLock 활성화"
 
-msgid "Tema aplicado"
-msgstr "적용된 테마"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "구성을 완료하려면 세션을 다시 시작해야 합니다."
-
-msgid "Configuração do Desktop"
-msgstr "데스크톱 설정"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr "이전에 이 데스크톱을 사용해 본 적이 있습니까? 개인 설정을 복원하거나 원래 구성을 사용하시겠습니까?"
-
 msgid "Sim"
 msgstr "예"
 
 msgid "Não"
 msgstr "아니"
-
-msgid "Original"
-msgstr "오리지널"
-
-msgid "Restaurar"
-msgstr "리스토어"
-
-msgid "Desktop aplicado"
-msgstr "응용 데스크톱"
 
 msgid "Modo performance"
 msgstr "성능 모드"
@@ -210,5 +126,8 @@ msgstr "프싱크가 없는 BTRFS"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "소프트웨어 렌더링을 사용하면 투명도의 품질이 저하됩니다."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "테마, 데스크톱 및 조정"
+msgid "Desempenho em modo otimizado!"
+msgstr "최적화된 모드에서의 성능!"
+
+msgid "Desempenho em modo normal!"
+msgstr "일반 모드에서의 성능!"

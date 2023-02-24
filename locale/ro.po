@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Configurația de birou selectată a fost deja utilizată pe acest sistem,\n"
-"doriți să restaurați configurația care a fost deja utilizată?\n"
-"\n"
-"Selectați nu pentru a utiliza configurația implicită a sistemului.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Configurație aplicată!\n"
-"\n"
-"Deconectați-vă și conectați-vă din nou\n"
-"pentru finalizarea configurării\n"
-"aplicat."
+msgid "Ajustes"
+msgstr "Setări"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Dacă utilizați un browser, reporniți-l pentru a aplica modificările."
-
-msgid "Desempenho em modo normal!"
-msgstr "Performanță în modul normal!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Performanță în modul performanță!"
@@ -69,54 +43,17 @@ msgstr "Aplicând, așteptați..."
 msgid "Concluído!"
 msgstr "Făcut!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanță în modul îmbunătățit!"
-
-msgid "Temas"
-msgstr "Teme"
-
-msgid "Desktop"
-msgstr "Desktop"
-
-msgid "Ajustes"
-msgstr "Setări"
-
-msgid "Desempenho do desktop"
-msgstr "Performanță desktop"
-
 msgid "Desempenho"
 msgstr "Performanță"
 
 msgid "Aceleração do navegador"
 msgstr "Accelerarea browserului"
 
-msgid "Tema dos aplicativos"
-msgstr "Tema aplicației"
-
 msgid "Abrir"
 msgstr "Deschide"
 
 msgid "Fechar"
 msgstr "Închideți"
-
-msgid "Bordas arredondadas."
-msgstr "Margini rotunjite."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Această temă are transparențe cu efecte care pot<br>încetini sistemul pe calculatoarele "
-"vechi<br>sau în mediile virtualizate."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Clasic</b>, <b>Nou</b> și <b>Modern</b> au cele mai bune rezultate."
-
-msgid "Renderizar o desktop via software"
-msgstr "Redarea desktop-ului prin intermediul unui software"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Poate fi util pe computere mai vechi, dar unele programe nu mai funcționează)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Alegeți programele care vor fi încărcate în memorie la pornire"
@@ -176,36 +113,11 @@ msgstr "Ascundeți Managerul de pornire (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Activați NumLock la pornirea sistemului"
 
-msgid "Tema aplicado"
-msgstr "Tema aplicată"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Trebuie să reporniți sesiunea pentru a finaliza configurația."
-
-msgid "Configuração do Desktop"
-msgstr "Configurarea desktop-ului"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Ați mai folosit acest desktop înainte, doriți să restaurați personalizarea acestuia sau să "
-"utilizați configurația originală?"
-
 msgid "Sim"
 msgstr "Da"
 
 msgid "Não"
 msgstr "Nu"
-
-msgid "Original"
-msgstr "Original"
-
-msgid "Restaurar"
-msgstr "Restaurați"
-
-msgid "Desktop aplicado"
-msgstr "Desktop aplicat"
 
 msgid "Modo performance"
 msgstr "Modul performanță"
@@ -216,5 +128,8 @@ msgstr "BTRFS fără fsync"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Prin utilizarea randării software, calitatea transparențelor este redusă."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teme, desktop și setări"
+msgid "Desempenho em modo otimizado!"
+msgstr "Performanță în modul îmbunătățit!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Performanță în modul normal!"

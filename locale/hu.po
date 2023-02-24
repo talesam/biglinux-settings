@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"A kiválasztott asztali konfiguráció már használatban van ezen a rendszeren,\n"
-"vissza szeretné állítani a már használt konfigurációt?\n"
-"\n"
-"Válassza a no lehetőséget az alapértelmezett rendszerkonfiguráció használatához.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Konfiguráció alkalmazva!\n"
-"\n"
-"Kijelentkezés és újbóli bejelentkezés\n"
-"a konfiguráció befejezéséhez\n"
-"alkalmazott."
+msgid "Ajustes"
+msgstr "Beállítások"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ha böngészőt használ, indítsa újra a módosítások alkalmazásához."
-
-msgid "Desempenho em modo normal!"
-msgstr "Teljesítmény normál üzemmódban!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Teljesítmény teljesítmény üzemmódban!"
@@ -69,54 +43,17 @@ msgstr "Jelentkezés, várakozás..."
 msgid "Concluído!"
 msgstr "Kész!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Teljesítmény továbbfejlesztett üzemmódban!"
-
-msgid "Temas"
-msgstr "Témák"
-
-msgid "Desktop"
-msgstr "Asztali"
-
-msgid "Ajustes"
-msgstr "Beállítások"
-
-msgid "Desempenho do desktop"
-msgstr "Asztali teljesítmény"
-
 msgid "Desempenho"
 msgstr "Teljesítmény"
 
 msgid "Aceleração do navegador"
 msgstr "Böngésző gyorsítás"
 
-msgid "Tema dos aplicativos"
-msgstr "Alkalmazás témája"
-
 msgid "Abrir"
 msgstr "Nyitott"
 
 msgid "Fechar"
 msgstr "Zárja be a"
-
-msgid "Bordas arredondadas."
-msgstr "Lekerekített élek."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Ez a téma olyan transzparenciákkal rendelkezik<br>, amelyek effektusai lelassíthatják a "
-"rendszert<br>régebbi számítógépeken vagy virtualizált környezetekben."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "A <b>klasszikus</b>, az <b>új</b> és a <b>modern</b> a legjobban teljesít."
-
-msgid "Renderizar o desktop via software"
-msgstr "Az asztal megjelenítése szoftveresen"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Hasznos lehet régebbi számítógépeken, de egyes programok nem működnek)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "A memóriába betöltendő programok kiválasztása a rendszerindításkor"
@@ -176,36 +113,11 @@ msgstr "Elrejteni a Boot Manager (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "A NumLock engedélyezése a rendszer indításakor"
 
-msgid "Tema aplicado"
-msgstr "Alkalmazott téma"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "A konfiguráció befejezéséhez újra kell indítania a munkamenetet."
-
-msgid "Configuração do Desktop"
-msgstr "Asztali konfiguráció"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Használtad már korábban ezt az asztalt, vissza akarod állítani a testreszabását, vagy az eredeti "
-"konfigurációt szeretnéd használni?"
-
 msgid "Sim"
 msgstr "Igen"
 
 msgid "Não"
 msgstr "Nem"
-
-msgid "Original"
-msgstr "Eredeti"
-
-msgid "Restaurar"
-msgstr "Visszaállítás"
-
-msgid "Desktop aplicado"
-msgstr "Asztali alkalmazás"
 
 msgid "Modo performance"
 msgstr "Teljesítmény mód"
@@ -216,5 +128,8 @@ msgstr "BTRFS fsync nélkül"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "A szoftveres rendereléssel a fóliák minősége csökken."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Témák, Asztal és beállítások"
+msgid "Desempenho em modo otimizado!"
+msgstr "Teljesítmény továbbfejlesztett üzemmódban!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Teljesítmény normál üzemmódban!"

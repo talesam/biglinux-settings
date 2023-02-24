@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"The selected desktop configuration has already been used on this system,\n"
-"do you want to restore the configuration that has already been used?\n"
-"\n"
-"Select no to use the default system configuration.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Configuration applied!\n"
-"\n"
-"Log out and log in again\n"
-"again for the configuration to finish\n"
-"applied."
+msgid "Ajustes"
+msgstr "Settings"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "If you are using a browser, restart it to apply the changes."
-
-msgid "Desempenho em modo normal!"
-msgstr "Performance in normal mode!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Performance in performance mode!"
@@ -69,54 +43,17 @@ msgstr "Applying, wait..."
 msgid "Concluído!"
 msgstr "Done!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Performance in enhanced mode!"
-
-msgid "Temas"
-msgstr "Themes"
-
-msgid "Desktop"
-msgstr "Desktop"
-
-msgid "Ajustes"
-msgstr "Settings"
-
-msgid "Desempenho do desktop"
-msgstr "Desktop performance"
-
 msgid "Desempenho"
 msgstr "Performance"
 
 msgid "Aceleração do navegador"
 msgstr "Browser acceleration"
 
-msgid "Tema dos aplicativos"
-msgstr "Application theme"
-
 msgid "Abrir"
 msgstr "Open"
 
 msgid "Fechar"
 msgstr "Close"
-
-msgid "Bordas arredondadas."
-msgstr "Rounded edges."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"This theme has transparencies with effects that can<br>slow down the system on old computers<br>or "
-"virtualized environments."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Classic</b>, <b>New</b> and <b>Modern</b> perform best."
-
-msgid "Renderizar o desktop via software"
-msgstr "Rendering the desktop via software"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(It may be useful on older computers, but some programs stop working)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Choosing programs to load into memory during boot"
@@ -176,36 +113,11 @@ msgstr "Hide Boot Manager (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Enable NumLock on system startup"
 
-msgid "Tema aplicado"
-msgstr "Applied theme"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "You must restart the session to complete the configuration."
-
-msgid "Configuração do Desktop"
-msgstr "Desktop Configuration"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Have you used this desktop before, do you want to restore its customization or use the original "
-"configuration?"
-
 msgid "Sim"
 msgstr "Yes"
 
 msgid "Não"
 msgstr "No"
-
-msgid "Original"
-msgstr "Original"
-
-msgid "Restaurar"
-msgstr "Restore"
-
-msgid "Desktop aplicado"
-msgstr "Applied Desktop"
 
 msgid "Modo performance"
 msgstr "Performance mode"
@@ -216,5 +128,8 @@ msgstr "BTRFS without fsync"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Using software rendering, the quality of transparencies is reduced."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop and Settings"
+msgid "Desempenho em modo otimizado!"
+msgstr "Performance in enhanced mode!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Performance in normal mode!"

@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Valittua työpöydän kokoonpanoa on jo käytetty tässä järjestelmässä,\n"
-"haluatko palauttaa jo käytetyn kokoonpanon?\n"
-"\n"
-"Valitse no, jos haluat käyttää järjestelmän oletuskokoonpanoa.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Konfiguraatio käytössä!\n"
-"\n"
-"Kirjaudu ulos ja kirjaudu uudelleen sisään\n"
-"jotta konfigurointi saadaan valmiiksi\n"
-"sovellettu."
+msgid "Ajustes"
+msgstr "Asetukset"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Jos käytät selainta, ota muutokset käyttöön käynnistämällä se uudelleen."
-
-msgid "Desempenho em modo normal!"
-msgstr "Suorituskyky normaalitilassa!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Suorituskyky suoritustilassa!"
@@ -69,54 +43,17 @@ msgstr "Hakeminen, odota..."
 msgid "Concluído!"
 msgstr "Valmis!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Suorituskyky tehostetussa tilassa!"
-
-msgid "Temas"
-msgstr "Teemat"
-
-msgid "Desktop"
-msgstr "Työpöytä"
-
-msgid "Ajustes"
-msgstr "Asetukset"
-
-msgid "Desempenho do desktop"
-msgstr "Työpöydän suorituskyky"
-
 msgid "Desempenho"
 msgstr "Suorituskyky"
 
 msgid "Aceleração do navegador"
 msgstr "Selaimen kiihdytys"
 
-msgid "Tema dos aplicativos"
-msgstr "Sovelluksen teema"
-
 msgid "Abrir"
 msgstr "Avata"
 
 msgid "Fechar"
 msgstr "Sulje"
-
-msgid "Bordas arredondadas."
-msgstr "Pyöristetyt reunat."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Tässä teemassa on läpinäkyviä tehosteita, jotka voivat hidastaa<br>järjestelmän toimintaa vanhoissa "
-"tietokoneissa<br>tai virtualisoiduissa ympäristöissä."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Klassinen</b>, <b>uusi</b> ja <b>moderni</b> toimivat parhaiten."
-
-msgid "Renderizar o desktop via software"
-msgstr "Työpöydän renderöinti ohjelmiston avulla"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Se voi olla hyödyllinen vanhemmissa tietokoneissa, mutta jotkut ohjelmat lakkaavat toimimasta)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Valitse ohjelmat, jotka ladataan muistiin käynnistyksen yhteydessä"
@@ -176,36 +113,11 @@ msgstr "Piilota käynnistyksenhallinta (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Ota NumLock käyttöön järjestelmän käynnistyessä"
 
-msgid "Tema aplicado"
-msgstr "Sovellettu teema"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Sinun on käynnistettävä istunto uudelleen, jotta määritys voidaan suorittaa loppuun."
-
-msgid "Configuração do Desktop"
-msgstr "Työpöydän kokoonpano"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Oletko käyttänyt tätä työpöytää aiemmin, haluatko palauttaa sen mukautukset vai käyttää "
-"alkuperäistä kokoonpanoa?"
-
 msgid "Sim"
 msgstr "Kyllä"
 
 msgid "Não"
 msgstr "Ei"
-
-msgid "Original"
-msgstr "Alkuperäinen"
-
-msgid "Restaurar"
-msgstr "Palauta"
-
-msgid "Desktop aplicado"
-msgstr "Työpöytä sovellettu"
 
 msgid "Modo performance"
 msgstr "Suorituskykytila"
@@ -216,5 +128,8 @@ msgstr "BTRFS ilman fsynkronointia"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teemat, työpöytä ja asetukset"
+msgid "Desempenho em modo otimizado!"
+msgstr "Suorituskyky tehostetussa tilassa!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Suorituskyky normaalitilassa!"

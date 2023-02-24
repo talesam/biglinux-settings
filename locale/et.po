@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Valitud töölaua konfiguratsiooni on selles süsteemis juba kasutatud,\n"
-"kas soovite taastada juba kasutatud konfiguratsiooni?\n"
-"\n"
-"Valige ei, et kasutada süsteemi vaikimisi konfiguratsiooni.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Konfigureerimine rakendatud!\n"
-"\n"
-"Logi välja ja logi uuesti sisse\n"
-"konfiguratsiooni lõpetamiseks\n"
-"kohaldatud."
+msgid "Ajustes"
+msgstr "Seaded"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Kui kasutate brauserit, taaskäivitage see muudatuste rakendamiseks."
-
-msgid "Desempenho em modo normal!"
-msgstr "Tulemuslikkus tavarežiimis!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Esitlusvõime esitusrežiimis!"
@@ -69,54 +43,17 @@ msgstr "Taotlemine, oota..."
 msgid "Concluído!"
 msgstr "Teinud!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Täiustatud režiimil toimimine!"
-
-msgid "Temas"
-msgstr "Teemad"
-
-msgid "Desktop"
-msgstr "Töölauaarvuti"
-
-msgid "Ajustes"
-msgstr "Seaded"
-
-msgid "Desempenho do desktop"
-msgstr "Töölaua jõudlus"
-
 msgid "Desempenho"
 msgstr "Jõudlust"
 
 msgid "Aceleração do navegador"
 msgstr "Brauseri kiirendus"
 
-msgid "Tema dos aplicativos"
-msgstr "Rakenduse teema"
-
 msgid "Abrir"
 msgstr "Avama"
 
 msgid "Fechar"
 msgstr "Sulge"
-
-msgid "Bordas arredondadas."
-msgstr "Ümarad servad."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Selles teemas on efektidega läbipaistvused, mis võivad<br>vanades arvutites<br>või virtualiseeritud "
-"keskkondadessüsteemi aeglustada."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "Kõige paremini toimivad <b>klassikaline</b>, <b>uus</b> ja <b>kaasaegne</b>."
-
-msgid "Renderizar o desktop via software"
-msgstr "Töölaua renderdamine tarkvara abil"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(See võib olla kasulik vanemates arvutites, kuid mõned programmid lakkavad töötamast)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Valige programmid, mis laaditakse mällu käivitamise ajal"
@@ -176,36 +113,11 @@ msgstr "Hide Boot Manager (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "NumLocki lubamine süsteemi käivitamisel"
 
-msgid "Tema aplicado"
-msgstr "Kohaldatud teema"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Konfigureerimise lõpuleviimiseks peate seansi taaskäivitama."
-
-msgid "Configuração do Desktop"
-msgstr "Töölaua konfiguratsioon"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Kas olete seda töölauda varem kasutanud, kas soovite taastada selle kohandamise või kasutada algset "
-"konfiguratsiooni?"
-
 msgid "Sim"
 msgstr "Jah"
 
 msgid "Não"
 msgstr "Ei"
-
-msgid "Original"
-msgstr "Originaal"
-
-msgid "Restaurar"
-msgstr "Taasta"
-
-msgid "Desktop aplicado"
-msgstr "Rakendatud töölauale"
 
 msgid "Modo performance"
 msgstr "Jõudluse režiim"
@@ -216,5 +128,8 @@ msgstr "BTRFS ilma fsyncita"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Tarkvaralist renderdamist kasutades väheneb läbipaistvuse kvaliteet."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teemad, töölaud ja seaded"
+msgid "Desempenho em modo otimizado!"
+msgstr "Täiustatud režiimil toimimine!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Tulemuslikkus tavarežiimis!"

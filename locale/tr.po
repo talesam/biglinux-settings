@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Seçilen masaüstü yapılandırması bu sistemde zaten kullanılmıştır,\n"
-"daha önce kullanılmış olan yapılandırmayı geri yüklemek istiyor musunuz?\n"
-"\n"
-"Varsayılan sistem yapılandırmasını kullanmak için hayır öğesini seçin.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Yapılandırma uygulandı!\n"
-"\n"
-"Oturumu kapatın ve tekrar oturum açın\n"
-"yapılandırmanın bitmesi için\n"
-"uygulandı."
+msgid "Ajustes"
+msgstr "Ayarlar"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
-
-msgid "Desempenho em modo normal!"
-msgstr "Normal modda performans!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Performans modunda performans!"
@@ -69,54 +43,17 @@ msgstr "Başvuru, bekle..."
 msgid "Concluído!"
 msgstr "Yapılmış!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Gelişmiş modda performans!"
-
-msgid "Temas"
-msgstr "Temalar"
-
-msgid "Desktop"
-msgstr "Masaüstü"
-
-msgid "Ajustes"
-msgstr "Ayarlar"
-
-msgid "Desempenho do desktop"
-msgstr "Masaüstü performansı"
-
 msgid "Desempenho"
 msgstr "Performans"
 
 msgid "Aceleração do navegador"
 msgstr "Tarayıcı hızlandırma"
 
-msgid "Tema dos aplicativos"
-msgstr "Uygulama teması"
-
 msgid "Abrir"
 msgstr "Açık"
 
 msgid "Fechar"
 msgstr "Kapat"
-
-msgid "Bordas arredondadas."
-msgstr "Yuvarlatılmış kenarlar."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Bu tema, eski bilgisayarlarda<br>veya sanallaştırılmış ortamlarda sistemi <br>yavaşlatabilecek "
-"efektler içeren saydamlara sahiptir. "
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Klasik</b>, <b>Yeni</b> ve <b>Modern</b> en iyi performansı gösterir."
-
-msgid "Renderizar o desktop via software"
-msgstr "Masaüstünü yazılım aracılığıyla oluşturma"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Eski bilgisayarlarda yararlı olabilir, ancak bazı programlar çalışmayı durdurur)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Önyükleme sırasında belleğe yüklenecek programları seçin"
@@ -176,36 +113,11 @@ msgstr "Önyükleme Yöneticisini Gizle (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Sistem başlangıcında NumLock'u etkinleştirme"
 
-msgid "Tema aplicado"
-msgstr "Uygulanan tema"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Yapılandırmayı tamamlamak için oturumu yeniden başlatmanız gerekir."
-
-msgid "Configuração do Desktop"
-msgstr "Masaüstü Yapılandırması"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Bu masaüstünü daha önce kullandınız mı, özelleştirmesini geri yüklemek mi yoksa orijinal "
-"yapılandırmayı kullanmak mı istiyorsunuz?"
-
 msgid "Sim"
 msgstr "Evet"
 
 msgid "Não"
 msgstr "Hayır"
-
-msgid "Original"
-msgstr "Orijinal"
-
-msgid "Restaurar"
-msgstr "Geri Yükleme"
-
-msgid "Desktop aplicado"
-msgstr "Masaüstü uygulandı"
 
 msgid "Modo performance"
 msgstr "Performans modu"
@@ -216,5 +128,8 @@ msgstr "Fsync olmadan BTRFS"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temalar, Masaüstü ve Ayarlar"
+msgid "Desempenho em modo otimizado!"
+msgstr "Gelişmiş modda performans!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Normal modda performans!"

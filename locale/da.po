@@ -16,37 +16,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid ""
-"\n"
-"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
-"deseja restaurar a configuração que já foi utilizada?\n"
-"\n"
-"Selecione não para utilizar a configuração padrão do sistema.\n"
-msgstr ""
-"\n"
-"Den valgte skrivebordskonfiguration er allerede blevet brugt på dette system,\n"
-"ønsker du at gendanne den konfiguration, der allerede er blevet brugt?\n"
-"\n"
-"Vælg nej for at bruge standardkonfigurationen af systemet.\n"
-
-msgid ""
-"Configuração aplicada!\n"
-"\n"
-"Finalize a sessão e faça login novamente\n"
-"para que a configuração termine de\n"
-"ser aplicada."
-msgstr ""
-"Konfiguration anvendt!\n"
-"\n"
-"Log ud og log ind igen\n"
-"for at konfigurationen er færdig\n"
-"anvendes."
+msgid "Ajustes"
+msgstr "Indstillinger"
 
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Hvis du bruger en browser, skal du genstarte den for at anvende ændringerne."
-
-msgid "Desempenho em modo normal!"
-msgstr "Ydelse i normal tilstand!"
 
 msgid "Desempenho em modo performance!"
 msgstr "Præstation i præstationstilstand!"
@@ -69,54 +43,17 @@ msgstr "Ansøg, vent..."
 msgid "Concluído!"
 msgstr "Gjort!"
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Ydeevne i forbedret tilstand!"
-
-msgid "Temas"
-msgstr "Temaer"
-
-msgid "Desktop"
-msgstr "Desktop"
-
-msgid "Ajustes"
-msgstr "Indstillinger"
-
-msgid "Desempenho do desktop"
-msgstr "Ydelse på skrivebordet"
-
 msgid "Desempenho"
 msgstr "Præstation"
 
 msgid "Aceleração do navegador"
 msgstr "Browser-acceleration"
 
-msgid "Tema dos aplicativos"
-msgstr "Ansøgningstema"
-
 msgid "Abrir"
 msgstr "Åben"
 
 msgid "Fechar"
 msgstr "Luk"
-
-msgid "Bordas arredondadas."
-msgstr "Afrundede kanter."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema lento em "
-"computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Dette tema har transparenter med effekter, der kan gøre<br>systemet langsommere på gamle "
-"computere<br>eller i virtualiserede miljøer."
-
-msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr "<b>Klassisk</b>, <b>ny</b> og <b>moderne</b> er bedst."
-
-msgid "Renderizar o desktop via software"
-msgstr "Gengivelse af skrivebordet via software"
-
-msgid "(Pode ser útil em computadores antigos, porém alguns programas param de funcionar)"
-msgstr "(Det kan være nyttigt på ældre computere, men nogle programmer holder op med at fungere)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Vælg programmer, der skal indlæses i hukommelsen ved opstart"
@@ -176,36 +113,11 @@ msgstr "Skjul Boot Manager (GRUB)"
 msgid "Ativar o NumLock ao ligar o sistema"
 msgstr "Aktiver NumLock ved systemstart"
 
-msgid "Tema aplicado"
-msgstr "Anvendt tema"
-
-msgid "É preciso reiniciar a sessão para concluir a configuração."
-msgstr "Du skal genstarte sessionen for at fuldføre konfigurationen."
-
-msgid "Configuração do Desktop"
-msgstr "Konfiguration af skrivebord"
-
-msgid ""
-"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou utilizar a "
-"configuração original?"
-msgstr ""
-"Har du brugt dette skrivebord før, og vil du gendanne tilpasningen eller bruge den oprindelige "
-"konfiguration?"
-
 msgid "Sim"
 msgstr "Ja"
 
 msgid "Não"
 msgstr "Nej"
-
-msgid "Original"
-msgstr "Original"
-
-msgid "Restaurar"
-msgstr "Gendan"
-
-msgid "Desktop aplicado"
-msgstr "Desktop anvendt"
 
 msgid "Modo performance"
 msgstr "Ydeevne tilstand"
@@ -216,5 +128,8 @@ msgstr "BTRFS uden fsync"
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ved brug af softwarerensning reduceres kvaliteten af transparenter."
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temaer, skrivebord og indstillinger"
+msgid "Desempenho em modo otimizado!"
+msgstr "Ydeevne i forbedret tilstand!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Ydelse i normal tilstand!"
