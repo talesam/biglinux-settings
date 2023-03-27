@@ -21,9 +21,6 @@ msgid   "Se estiver utilizando algum navegador, reinicie-o para aplicar as "
         "alterações."
 msgstr  ""
 
-msgid   "Desempenho em modo performance!"
-msgstr  ""
-
 msgid   "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja "
         "ocultar o grub?"
 msgstr  ""
@@ -41,6 +38,15 @@ msgid   "Aplicando, aguarde..."
 msgstr  ""
 
 msgid   "Concluído!"
+msgstr  ""
+
+msgid   "Desempenho em modo normal!"
+msgstr  ""
+
+msgid   "Desempenho em modo otimizado!"
+msgstr  ""
+
+msgid   "Desempenho em modo performance!"
 msgstr  ""
 
 msgid   "Desempenho"
@@ -125,10 +131,4 @@ msgstr  ""
 
 msgid   "Utilizando renderização por software, a qualidade das transparências "
         "está reduzida."
-msgstr  ""
-
-msgid   "Desempenho em modo otimizado!"
-msgstr  ""
-
-msgid   "Desempenho em modo normal!"
 msgstr  ""
