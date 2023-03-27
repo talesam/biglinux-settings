@@ -22,9 +22,6 @@ msgstr "Instellingen"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Als u een browser gebruikt, start u deze opnieuw op om de wijzigingen toe te passen."
 
-msgid "Desempenho em modo performance!"
-msgstr "Prestaties in de prestatiemodus!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Pas op dat je de toegang tot SnapShots verliest, weet je zeker dat je de grub wilt verbergen?"
 
@@ -42,6 +39,15 @@ msgstr "Solliciteren, wachten..."
 
 msgid "Concluído!"
 msgstr "Klaar!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Prestaties in de normale modus!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Prestaties in verbeterde modus!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Prestaties in de prestatiemodus!"
 
 msgid "Desempenho"
 msgstr "Voorstelling"
@@ -101,8 +107,8 @@ msgstr "Omgekeerd scrollen met de muis"
 msgid "Rolagem do touchpad invertida"
 msgstr "Omgekeerd touchpad scrollen"
 
-msgid "Pesquisar arquivos"
-msgstr "Zoek archieven"
+msgid "Indexar arquivos"
+msgstr "Indexbestanden"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Bureaubladbewerking blokkeren "
@@ -127,9 +133,3 @@ msgstr "BTRFS zonder fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Met software rendering wordt de kwaliteit van transparanten verminderd."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Prestaties in verbeterde modus!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Prestaties in de normale modus!"

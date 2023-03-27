@@ -22,9 +22,6 @@ msgstr "Налаштування"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Якщо ви використовуєте браузер, перезапустіть його, щоб застосувати зміни."
 
-msgid "Desempenho em modo performance!"
-msgstr "Продуктивність у режимі продуктивності!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Остерігайтеся, що ви втратите доступ до SnapShots, ви впевнені, що хочете приховати образу?"
 
@@ -42,6 +39,15 @@ msgstr "Подаючи заявку, почекайте..."
 
 msgid "Concluído!"
 msgstr "Зробити!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Продуктивність в оптимізованому режимі!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Продуктивність в оптимізованому режимі!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Продуктивність у режимі продуктивності!"
 
 msgid "Desempenho"
 msgstr "Продуктивність"
@@ -101,8 +107,8 @@ msgstr "Перевернута прокрутка миші"
 msgid "Rolagem do touchpad invertida"
 msgstr "Інвертована прокрутка тачпада"
 
-msgid "Pesquisar arquivos"
-msgstr "пошук файлів"
+msgid "Indexar arquivos"
+msgstr "Індексні файли"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Блокування редагування робочого столу "
@@ -127,9 +133,3 @@ msgstr "БТРФ без фсинк"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Використання програмного рендеринга знижує якість прозорих плівк."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Продуктивність в оптимізованому режимі!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Продуктивність в оптимізованому режимі!"

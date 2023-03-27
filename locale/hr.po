@@ -22,9 +22,6 @@ msgstr "ugađanje"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ako koristite preglednik, ponovno ga pokrenite da biste primijenili promjene."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performanse u načinu rada!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Pazite da ćete izgubiti pristup SnapShotovima, jeste li sigurni da želite sakriti grub?"
 
@@ -42,6 +39,15 @@ msgstr "Prijava, čekanje..."
 
 msgid "Concluído!"
 msgstr "Učinjeno!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Izvedba u normalnom načinu rada!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Performanse u optimiziranom načinu!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Performanse u načinu rada!"
 
 msgid "Desempenho"
 msgstr "Izvedba"
@@ -101,8 +107,8 @@ msgstr "Obrnuto pomicanje miša"
 msgid "Rolagem do touchpad invertida"
 msgstr "Preokrenuto pomicanje dodirne pločice"
 
-msgid "Pesquisar arquivos"
-msgstr "Pretraživanje datoteka"
+msgid "Indexar arquivos"
+msgstr "Indeksiraj datoteke"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Blokiranje uređivanja radne površine "
@@ -127,9 +133,3 @@ msgstr "BTRFS bez fsynca"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Korištenjem prikazivanja softvera smanjuje se kvaliteta prozirnih folija."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanse u optimiziranom načinu!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Izvedba u normalnom načinu rada!"

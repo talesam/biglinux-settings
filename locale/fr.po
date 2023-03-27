@@ -22,9 +22,6 @@ msgstr "Paramètres"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Si vous utilisez un navigateur, redémarrez-le pour appliquer les modifications."
 
-msgid "Desempenho em modo performance!"
-msgstr "La performance en mode performance !"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Attention, vous perdrez l’accès aux SnapShots, êtes-vous sûr de vouloir cacher le larves?"
 
@@ -42,6 +39,15 @@ msgstr "Postuler, attendre..."
 
 msgid "Concluído!"
 msgstr "Fait!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Performance en mode normal !"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Des performances en mode amélioré !"
+
+msgid "Desempenho em modo performance!"
+msgstr "La performance en mode performance !"
 
 msgid "Desempenho"
 msgstr "Performance"
@@ -101,8 +107,8 @@ msgstr "Défilement inversé de la souris"
 msgid "Rolagem do touchpad invertida"
 msgstr "Défilement inversé du pavé tactile"
 
-msgid "Pesquisar arquivos"
-msgstr "Recherche dans les archives"
+msgid "Indexar arquivos"
+msgstr "Fichiers d’index"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Bloquer l’édition du bureau "
@@ -127,9 +133,3 @@ msgstr "BTRFS sans fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "En utilisant le rendu logiciel, la qualité des transparents est réduite."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Des performances en mode amélioré !"
-
-msgid "Desempenho em modo normal!"
-msgstr "Performance en mode normal !"

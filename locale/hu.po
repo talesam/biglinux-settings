@@ -22,9 +22,6 @@ msgstr "Beállítások"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Ha böngészőt használ, indítsa újra a módosítások alkalmazásához."
 
-msgid "Desempenho em modo performance!"
-msgstr "Teljesítmény teljesítmény üzemmódban!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Vigyázzon, elveszíti hozzáférését a SnapShots-hoz, biztos benne, hogy el akarja rejteni a grubot?"
 
@@ -42,6 +39,15 @@ msgstr "Jelentkezés, várakozás..."
 
 msgid "Concluído!"
 msgstr "Kész!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Teljesítmény normál üzemmódban!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Teljesítmény továbbfejlesztett üzemmódban!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Teljesítmény teljesítmény üzemmódban!"
 
 msgid "Desempenho"
 msgstr "Teljesítmény"
@@ -101,8 +107,8 @@ msgstr "Invertált egér görgetés"
 msgid "Rolagem do touchpad invertida"
 msgstr "Fordított érintőpad görgetése"
 
-msgid "Pesquisar arquivos"
-msgstr "Keresés az archívumban"
+msgid "Indexar arquivos"
+msgstr "Indexfájlok"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Asztali szerkesztés blokkolása "
@@ -127,9 +133,3 @@ msgstr "BTRFS fsync nélkül"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "A szoftveres rendereléssel a fóliák minősége csökken."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Teljesítmény továbbfejlesztett üzemmódban!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Teljesítmény normál üzemmódban!"

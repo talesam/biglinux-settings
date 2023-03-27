@@ -22,9 +22,6 @@ msgstr "Ayarlar"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performans modunda performans!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "SnapShot'lara erişiminizi kaybedeceğinize dikkat edin, grubu gizlemek istediğinizden emin misiniz?"
 
@@ -42,6 +39,15 @@ msgstr "Başvuru, bekle..."
 
 msgid "Concluído!"
 msgstr "Yapılmış!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Normal modda performans!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Gelişmiş modda performans!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Performans modunda performans!"
 
 msgid "Desempenho"
 msgstr "Performans"
@@ -101,8 +107,8 @@ msgstr "Ters çevrilmiş fare kaydırma"
 msgid "Rolagem do touchpad invertida"
 msgstr "Ters dokunmatik yüzey kaydırma"
 
-msgid "Pesquisar arquivos"
-msgstr "Arama arşivleri"
+msgid "Indexar arquivos"
+msgstr "Dizin dosyaları"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Masaüstü düzenlemeyi engelleme "
@@ -127,9 +133,3 @@ msgstr "Fsync olmadan BTRFS"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Gelişmiş modda performans!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Normal modda performans!"

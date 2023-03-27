@@ -22,9 +22,6 @@ msgstr "Ustawienia"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Jeśli używasz przeglądarki, uruchom ją ponownie, aby zastosować zmiany."
 
-msgid "Desempenho em modo performance!"
-msgstr "Wydajność w trybie wydajnościowym!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Uważaj, stracisz dostęp do SnapShots, czy na pewno chcesz ukryć gruba?"
 
@@ -42,6 +39,15 @@ msgstr "Aplikując, czekaj..."
 
 msgid "Concluído!"
 msgstr "Gotowy!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Wydajność w trybie normalnym!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Wydajność w trybie rozszerzonym!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Wydajność w trybie wydajnościowym!"
 
 msgid "Desempenho"
 msgstr "Wydajność"
@@ -101,8 +107,8 @@ msgstr "Odwrócony scroll myszy"
 msgid "Rolagem do touchpad invertida"
 msgstr "Odwrócone przewijanie płytki dotykowej"
 
-msgid "Pesquisar arquivos"
-msgstr "Archiwa wyszukiwania"
+msgid "Indexar arquivos"
+msgstr "Pliki indeksu"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Blokowanie edycji pulpitu "
@@ -127,9 +133,3 @@ msgstr "BTRFS bez fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Przy renderowaniu programowym jakość przezroczy jest obniżona."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Wydajność w trybie rozszerzonym!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Wydajność w trybie normalnym!"

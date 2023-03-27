@@ -22,9 +22,6 @@ msgstr "Setări"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Dacă utilizați un browser, reporniți-l pentru a aplica modificările."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performanță în modul performanță!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Feriți-vă că veți pierde accesul la SnapShots, sunteți sigur că doriți să ascundeți grub-ul?"
 
@@ -42,6 +39,15 @@ msgstr "Aplicând, așteptați..."
 
 msgid "Concluído!"
 msgstr "Făcut!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Performanță în modul normal!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Performanță în modul îmbunătățit!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Performanță în modul performanță!"
 
 msgid "Desempenho"
 msgstr "Performanță"
@@ -101,8 +107,8 @@ msgstr "Derulare inversată a mouse-ului"
 msgid "Rolagem do touchpad invertida"
 msgstr "Defilare touchpad inversat"
 
-msgid "Pesquisar arquivos"
-msgstr "Căutați în arhive"
+msgid "Indexar arquivos"
+msgstr "Fișiere index"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Blocați editarea pe desktop "
@@ -127,9 +133,3 @@ msgstr "BTRFS fără fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Prin utilizarea randării software, calitatea transparențelor este redusă."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanță în modul îmbunătățit!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Performanță în modul normal!"

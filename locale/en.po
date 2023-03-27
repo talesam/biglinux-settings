@@ -22,9 +22,6 @@ msgstr "Settings"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "If you are using a browser, restart it to apply the changes."
 
-msgid "Desempenho em modo performance!"
-msgstr "Performance in performance mode!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Beware you will lose access to SnapShots, are you sure you want to hide the grub?"
 
@@ -42,6 +39,15 @@ msgstr "Applying, wait..."
 
 msgid "Concluído!"
 msgstr "Done!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Performance in normal mode!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Performance in enhanced mode!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Performance in performance mode!"
 
 msgid "Desempenho"
 msgstr "Performance"
@@ -101,8 +107,8 @@ msgstr "Mouse scrolling inverted"
 msgid "Rolagem do touchpad invertida"
 msgstr "Inverted touchpad scrolling"
 
-msgid "Pesquisar arquivos"
-msgstr "Search archives"
+msgid "Indexar arquivos"
+msgstr "Index files"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Block desktop editing "
@@ -127,9 +133,3 @@ msgstr "BTRFS without fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Using software rendering, the quality of transparencies is reduced."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Performance in enhanced mode!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Performance in normal mode!"

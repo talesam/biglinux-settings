@@ -22,9 +22,6 @@ msgstr "Asetukset"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Jos käytät selainta, ota muutokset käyttöön käynnistämällä se uudelleen."
 
-msgid "Desempenho em modo performance!"
-msgstr "Suorituskyky suoritustilassa!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Varo, että menetät pääsyn SnapShotsiin, oletko varma, että haluat piilottaa grubin?"
 
@@ -42,6 +39,15 @@ msgstr "Hakeminen, odota..."
 
 msgid "Concluído!"
 msgstr "Valmis!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Suorituskyky normaalitilassa!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Suorituskyky tehostetussa tilassa!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Suorituskyky suoritustilassa!"
 
 msgid "Desempenho"
 msgstr "Suorituskyky"
@@ -101,8 +107,8 @@ msgstr "Käänteinen hiiren vieritys"
 msgid "Rolagem do touchpad invertida"
 msgstr "Käänteisen kosketuslevyn vieritys"
 
-msgid "Pesquisar arquivos"
-msgstr "Etsi arkistoista"
+msgid "Indexar arquivos"
+msgstr "Tiedostojen indeksointi"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Estä työpöydän muokkaus "
@@ -127,9 +133,3 @@ msgstr "BTRFS ilman fsynkronointia"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Suorituskyky tehostetussa tilassa!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Suorituskyky normaalitilassa!"

@@ -22,9 +22,6 @@ msgstr "Настройки"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Если вы используете браузер, перезапустите его, чтобы применить изменения."
 
-msgid "Desempenho em modo performance!"
-msgstr "Производительность в режиме производительности!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Остерегайтесь, вы потеряете доступ к SnapShots, вы уверены, что хотите скрыть грязь?"
 
@@ -42,6 +39,15 @@ msgstr "Подать заявку, подождать..."
 
 msgid "Concluído!"
 msgstr "Договорились!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Производительность в нормальном режиме!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Производительность в усиленном режиме!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Производительность в режиме производительности!"
 
 msgid "Desempenho"
 msgstr "Производительность"
@@ -101,8 +107,8 @@ msgstr "Инвертированная прокрутка мыши"
 msgid "Rolagem do touchpad invertida"
 msgstr "Инвертированная прокрутка сенсорной панели"
 
-msgid "Pesquisar arquivos"
-msgstr "Поисковые архивы"
+msgid "Indexar arquivos"
+msgstr "Индексные файлы"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Блокировка редактирования рабочего стола "
@@ -127,9 +133,3 @@ msgstr "BTRFS без fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "При использовании программного рендеринга качество прозрачности снижается."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Производительность в усиленном режиме!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Производительность в нормальном режиме!"

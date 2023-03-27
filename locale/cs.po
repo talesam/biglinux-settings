@@ -22,9 +22,6 @@ msgstr "Nastavení"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Pokud používáte prohlížeč, restartujte jej, aby se změny projevily."
 
-msgid "Desempenho em modo performance!"
-msgstr "Výkon v režimu výkonu!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Dejte si pozor, že ztratíte přístup k SnapShots, jste si jisti, že chcete skrýt grub?"
 
@@ -42,6 +39,15 @@ msgstr "Přihláška, počkejte..."
 
 msgid "Concluído!"
 msgstr "Hotový!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Výkon v normálním režimu!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Výkon v rozšířeném režimu!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Výkon v režimu výkonu!"
 
 msgid "Desempenho"
 msgstr "Představení"
@@ -101,8 +107,8 @@ msgstr "Obrácené posouvání myší"
 msgid "Rolagem do touchpad invertida"
 msgstr "Posouvání invertovaného touchpadu"
 
-msgid "Pesquisar arquivos"
-msgstr "Vyhledávání v archivech"
+msgid "Indexar arquivos"
+msgstr "Indexové soubory"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Blokovat úpravy plochy "
@@ -127,9 +133,3 @@ msgstr "BTRFS bez fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Při softwarovém vykreslování se snižuje kvalita průsvitek."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Výkon v rozšířeném režimu!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Výkon v normálním režimu!"

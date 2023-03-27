@@ -105,7 +105,7 @@ msgstr  ""
 msgid   "Rolagem do touchpad invertida"
 msgstr  ""
 
-msgid   "Pesquisar arquivos"
+msgid   "Indexar arquivos"
 msgstr  ""
 
 msgid   "Bloquear a edição da área de trabalho "

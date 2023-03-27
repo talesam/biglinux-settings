@@ -22,9 +22,6 @@ msgstr "設定"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "ブラウザーを使用している場合は、ブラウザーを再始動して変更を適用します。"
 
-msgid "Desempenho em modo performance!"
-msgstr "パフォーマンスモードでのパフォーマンス!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "スナップショットにアクセスできなくなることに注意してください、グラブを非表示にしてもよろしいですか?"
 
@@ -42,6 +39,15 @@ msgstr "適用中、待機中..."
 
 msgid "Concluído!"
 msgstr "完成です！"
+
+msgid "Desempenho em modo normal!"
+msgstr "ノーマルモードでのパフォーマンス!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "エンハンスドモードでのパフォーマンス!"
+
+msgid "Desempenho em modo performance!"
+msgstr "パフォーマンスモードでのパフォーマンス!"
 
 msgid "Desempenho"
 msgstr "パフォーマンス"
@@ -99,8 +105,8 @@ msgstr "マウスのスクロールが反転する"
 msgid "Rolagem do touchpad invertida"
 msgstr "反転タッチパッドスクロール"
 
-msgid "Pesquisar arquivos"
-msgstr "アーカイブを検索する"
+msgid "Indexar arquivos"
+msgstr "インデックス ファイル"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "デスクトップ編集をブロックする "
@@ -125,9 +131,3 @@ msgstr "fsync を使用しない BTRFS"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画質が低下します。"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "エンハンスドモードでのパフォーマンス!"
-
-msgid "Desempenho em modo normal!"
-msgstr "ノーマルモードでのパフォーマンス!"

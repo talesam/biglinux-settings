@@ -22,9 +22,6 @@ msgstr "Inställningar"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Om du använder en webbläsare startar du om den för att tillämpa ändringarna."
 
-msgid "Desempenho em modo performance!"
-msgstr "Prestanda i prestandaläge!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Se upp för att du kommer att förlora åtkomst till SnapShots, är du säker på att du vill dölja grub?"
 
@@ -42,6 +39,15 @@ msgstr "Ansökan, vänta..."
 
 msgid "Concluído!"
 msgstr "Färdig!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Prestanda i normalt läge!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Prestanda i förbättrat läge!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Prestanda i prestandaläge!"
 
 msgid "Desempenho"
 msgstr "Föreställning"
@@ -101,8 +107,8 @@ msgstr "Inverterad musrullning"
 msgid "Rolagem do touchpad invertida"
 msgstr "Inverterad pekplatta rullning"
 
-msgid "Pesquisar arquivos"
-msgstr "Sök i arkiven"
+msgid "Indexar arquivos"
+msgstr "Indexera filer"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Blockera skrivbordsredigering "
@@ -127,9 +133,3 @@ msgstr "BTRFS utan fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Om du använder mjukvarurendering minskar kvaliteten på transparenter."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Prestanda i förbättrat läge!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Prestanda i normalt läge!"

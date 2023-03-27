@@ -22,9 +22,6 @@ msgstr "Ρυθμίσεις"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Εάν χρησιμοποιείτε πρόγραμμα περιήγησης, επανεκκινήστε το για να εφαρμόσετε τις αλλαγές."
 
-msgid "Desempenho em modo performance!"
-msgstr "Απόδοση σε λειτουργία απόδοσης!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Προσέξτε ότι θα χάσετε την πρόσβαση στο SnapShots, είστε σίγουροι ότι θέλετε να κρύψετε το grub;"
 
@@ -42,6 +39,15 @@ msgstr "Αίτηση, περιμένετε..."
 
 msgid "Concluído!"
 msgstr "Έγινε!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Απόδοση σε κανονική λειτουργία!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Απόδοση σε βελτιωμένη λειτουργία!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Απόδοση σε λειτουργία απόδοσης!"
 
 msgid "Desempenho"
 msgstr "Εκτέλεση"
@@ -101,8 +107,8 @@ msgstr "Αντεστραμμένη κύλιση ποντικιού"
 msgid "Rolagem do touchpad invertida"
 msgstr "Ανεστραμμένη κύλιση επιφάνειας αφής"
 
-msgid "Pesquisar arquivos"
-msgstr "Αναζήτηση στα αρχεία"
+msgid "Indexar arquivos"
+msgstr "Αρχεία ευρετηρίου"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Αποκλεισμός επεξεργασίας επιφάνειας εργασίας "
@@ -127,9 +133,3 @@ msgstr "BTRFS χωρίς fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Χρησιμοποιώντας λογισμικό απόδοσης, η ποιότητα των διαφανειών μειώνεται."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Απόδοση σε βελτιωμένη λειτουργία!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Απόδοση σε κανονική λειτουργία!"

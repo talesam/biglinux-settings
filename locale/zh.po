@@ -22,9 +22,6 @@ msgstr "设置"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "如果您使用的是浏览器，请重新启动它以应用更改。"
 
-msgid "Desempenho em modo performance!"
-msgstr "性能模式下的表现!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "请注意，您将无法访问SnapShots，您确定要隐藏grub吗？"
 
@@ -42,6 +39,15 @@ msgstr "正在申请，等待..."
 
 msgid "Concluído!"
 msgstr "做！"
+
+msgid "Desempenho em modo normal!"
+msgstr "正常模式下的表现!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "增强模式下的性能!"
+
+msgid "Desempenho em modo performance!"
+msgstr "性能模式下的表现!"
 
 msgid "Desempenho"
 msgstr "性能"
@@ -99,8 +105,8 @@ msgstr "颠倒的鼠标滚动"
 msgid "Rolagem do touchpad invertida"
 msgstr "倒置触摸板滚动"
 
-msgid "Pesquisar arquivos"
-msgstr "搜索档案"
+msgid "Indexar arquivos"
+msgstr "索引文件"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "阻止桌面编辑 "
@@ -125,9 +131,3 @@ msgstr "不带同步的BTRFS"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "使用软件渲染，透明胶片的质量会降低。"
-
-msgid "Desempenho em modo otimizado!"
-msgstr "增强模式下的性能!"
-
-msgid "Desempenho em modo normal!"
-msgstr "正常模式下的表现!"

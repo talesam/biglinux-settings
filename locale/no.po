@@ -22,9 +22,6 @@ msgstr "justeringer"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "Hvis du bruker en leser, starter du den på nytt for å ta i bruk endringene."
 
-msgid "Desempenho em modo performance!"
-msgstr "Ytelse i ytelsesmodus!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "Pass på at du mister tilgangen til SnapShots, er du sikker på at du vil skjule grub?"
 
@@ -42,6 +39,15 @@ msgstr "Søker, venter..."
 
 msgid "Concluído!"
 msgstr "Gjort!"
+
+msgid "Desempenho em modo normal!"
+msgstr "Ytelse i normal modus!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Ytelse i optimalisert modus!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Ytelse i ytelsesmodus!"
 
 msgid "Desempenho"
 msgstr "Prestasjon"
@@ -101,8 +107,8 @@ msgstr "Reversert mus bla"
 msgid "Rolagem do touchpad invertida"
 msgstr "Invertert styreputerulling"
 
-msgid "Pesquisar arquivos"
-msgstr "Søk etter filer"
+msgid "Indexar arquivos"
+msgstr "Indeksfiler"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "Blokkere skrivebordsredigering "
@@ -127,9 +133,3 @@ msgstr "BTRFS uten fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ved å bruke programvaregjengivelse reduseres kvaliteten på transparentene."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "Ytelse i optimalisert modus!"
-
-msgid "Desempenho em modo normal!"
-msgstr "Ytelse i normal modus!"

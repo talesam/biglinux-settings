@@ -22,9 +22,6 @@ msgstr "tweaks"
 msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
 msgstr "אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את השינויים."
 
-msgid "Desempenho em modo performance!"
-msgstr "ביצועים במצב ביצועים!"
-
 msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
 msgstr "היזהר שתאבד את הגישה ל- SnapShots, האם אתה בטוח שאתה רוצה להסתיר את הגרגר?"
 
@@ -42,6 +39,15 @@ msgstr "הגשת מועמדות, חכה..."
 
 msgid "Concluído!"
 msgstr "לעשות!"
+
+msgid "Desempenho em modo normal!"
+msgstr "ביצועים במצב רגיל!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "ביצועים במצב מותאם!"
+
+msgid "Desempenho em modo performance!"
+msgstr "ביצועים במצב ביצועים!"
 
 msgid "Desempenho"
 msgstr "ביצועים"
@@ -99,8 +105,8 @@ msgstr "גלילת עכבר הפוכה"
 msgid "Rolagem do touchpad invertida"
 msgstr "גלילת לוח מגע הפוך"
 
-msgid "Pesquisar arquivos"
-msgstr "חפש קבצים"
+msgid "Indexar arquivos"
+msgstr "יצירת אינדקס של קבצים"
 
 msgid "Bloquear a edição da área de trabalho "
 msgstr "חסום עריכת שולחן עבודה "
@@ -125,9 +131,3 @@ msgstr "BTRFS ללא fsync"
 
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "על ידי שימוש בעיבוד תוכנה, איכות השקפים מופחתת."
-
-msgid "Desempenho em modo otimizado!"
-msgstr "ביצועים במצב מותאם!"
-
-msgid "Desempenho em modo normal!"
-msgstr "ביצועים במצב רגיל!"
