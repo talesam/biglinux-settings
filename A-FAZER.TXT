@@ -1,5 +1,3 @@
-criar icones proprios, pq os icones estão vindo do session and themes e vai dar conflito
-
-criar as traduções do nome no .desktop
+criar icone
 
 kdialog in browser-{yes|no}.run
