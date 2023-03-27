@@ -43,7 +43,7 @@ Usability=$"Usabilidade"
 Window_buttons_on_the_left_side=$"Botões da janela no lado esquerdo"
 Inverted_mouse_scroll=$"Rolagem do mouse invertida"
 Inverted_touchpad_scroll=$"Rolagem do touchpad invertida"
-Search_files=$"Pesquisar arquivos"
+Search_files=$"Indexar arquivos"
 Lock_the_workspace=$"Bloquear a edição da área de trabalho "
 HideGrub_text=$"Ocultar Gerenciador de Boot (GRUB)"
 NumLock_text=$"Ativar o NumLock ao ligar o sistema"
@@ -88,7 +88,7 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
       checked_touchpad_natural="unchecked"
   fi
   
-  #Pesquisar Arquivos (Baloo)
+  #Indexar Arquivos (Baloo)
   if [ "$(LANG=C balooctl status 2>&1| grep 'is running')" != "" ]; then
       checked_search="checked"
   else
@@ -412,7 +412,7 @@ EOF
 fi
 #Inverter rolagem do mouse End
 
-#Pesquisar Arquivos (Baloo) Start
+#Indexar Arquivos (Baloo) Start
 cat << EOF
               <li>
                 <div class="products">
