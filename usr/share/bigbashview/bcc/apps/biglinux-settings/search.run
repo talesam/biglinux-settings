@@ -1,24 +1,25 @@
 #!/bin/bash
 
-
-if [ "$(LANG=C balooctl status 2>&1| grep 'is running')" = "" ]; then
-    balooctl enable
-    sleep .3
-    balooctl enable
-    sleep .3
-    balooctl enable
-    sleep .3
-    balooctl enable
-    sleep .3
-    balooctl enable
-else
-    balooctl disable
-    sleep .3
-    balooctl disable
-    sleep .3
-    balooctl disable
-    sleep .3
-    balooctl disable
-    sleep .3
-    balooctl disable
+if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
+    if [ "$(LANG=C balooctl status 2>&1| grep 'is running')" = "" ]; then
+        balooctl enable
+        sleep .3
+        balooctl enable
+        sleep .3
+        balooctl enable
+        sleep .3
+        balooctl enable
+        sleep .3
+        balooctl enable
+    else
+        balooctl disable
+        sleep .3
+        balooctl disable
+        sleep .3
+        balooctl disable
+        sleep .3
+        balooctl disable
+        sleep .3
+        balooctl disable
+    fi
 fi

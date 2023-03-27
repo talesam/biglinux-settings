@@ -3,17 +3,19 @@
 #INPUTFALSE=$(grep -w "Enabled=false" ~/.config/kwinrc | head -n 1)
 #if [ -n "$INPUTTRUE" ]; then
 
-if [ "$(kreadconfig5  --group "Compositing" --key "Enabled" --file "$HOME/.config/kwinrc")" = "false" ]; then
+if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
+	if [ "$(kreadconfig5  --group "Compositing" --key "Enabled" --file "$HOME/.config/kwinrc")" = "false" ]; then
 
-#Desativa o performance
-qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
-kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "true"
-    
-#elif [ -n "$INPUTFALSE" ]; then
-else
+	#Desativa o performance
+	qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
+	kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "true"
+	    
+	#elif [ -n "$INPUTFALSE" ]; then
+	else
 
-#Ativa o performance
-qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
-kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "false"    
+	#Ativa o performance
+	qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
+	kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "false"    
 
+	fi
 fi
