@@ -2,3 +2,5 @@
 
 who=$(who | awk '{ print $1 }' | head -n 1)
 rsync -Cazog --chown=$who:$who /etc/skel/ /home/$who/
+
+#pacman -Sy --noconfirm --needed $(curl https://raw.githubusercontent.com/biglinux/biglinux-calamares-${DESKTOP_SESSION}/main/usr/share/bigbashview/bcc/apps/bigbashview-calamares/desktops/${DESKTOP_SESSION}/pkginstall.txt)
