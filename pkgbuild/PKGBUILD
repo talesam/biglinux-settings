@@ -10,6 +10,9 @@ depends=('bigsudo' 'disable-fsync' 'auto-tweaks-browser' 'xorg-xset' 'kdialog')
 url="https://github.com/biglinux/$pkgname"
 source=("git+${url}.git")
 md5sums=(SKIP)
+if [ -e "${pkgname}.install" ];then
+    install=${pkgname}.install
+fi
 
 package() {
     # Verify default folder
