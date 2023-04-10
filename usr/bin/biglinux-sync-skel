@@ -1,6 +1,13 @@
 #!/bin/bash
 
+#pegar usuario e fazer rsync
 who=$(who | awk '{ print $1 }' | head -n 1)
 rsync -Cazog --chown=$who:$who /etc/skel/ /home/$who/
 
-#pacman -Sy --noconfirm --needed $(curl https://raw.githubusercontent.com/biglinux/biglinux-calamares-${DESKTOP_SESSION}/main/usr/share/bigbashview/bcc/apps/bigbashview-calamares/desktops/${DESKTOP_SESSION}/pkginstall.txt)
+#esperar pacman
+while [ -n "$(top -b -d1 n1 | grep pacman)" ]; do
+    sleep 0.5
+done
+
+#baixar lista e instalar 
+pacman -Sy --noconfirm --needed $(curl -s https://raw.githubusercontent.com/biglinux/biglinux-calamares-$(pacman -Q | grep skel | awk '{print $1}' | sed 's/biglinux-skel-//')/main/usr/share/bigbashview/bcc/apps/bigbashview-calamares/desktops/$(pacman -Q | grep skel | awk '{print $1}' | sed 's/biglinux-skel-//')/pkginstall.txt)
