@@ -1,3 +1,0 @@
-criar icone
-
-kdialog in browser-{yes|no}.run

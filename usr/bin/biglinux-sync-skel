@@ -1,0 +1,4 @@
+#!/bin/bash
+
+who=$(who | awk '{ print $1 }' | head -n 1)
+rsync -Cazog --chown=$who:$who /etc/skel/ /home/$who/
