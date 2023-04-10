@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Setări"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Dacă utilizați un browser, reporniți-l pentru a aplica modificările."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Feriți-vă că veți pierde accesul la SnapShots, sunteți sigur că doriți să ascundeți grub-ul?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Veți ști cum să returnați Grub în caz de eșec?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Veți putea accesa SnapShots fără acces la modul Grafic?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Sunteți complet sigur de această aplicație?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Aplicând, așteptați..."
-
-msgid "Concluído!"
-msgstr "Făcut!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Performanță în modul normal!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Performanță în modul îmbunătățit!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Performanță în modul performanță!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Dacă utilizați un browser, reporniți-l pentru a aplica modificările."
 
 msgid "Desempenho"
 msgstr "Performanță"
@@ -131,5 +110,29 @@ msgstr "Modul performanță"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS fără fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "Modul pentru dezvoltatori"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Prin utilizarea randării software, calitatea transparențelor este redusă."
+
+msgid "Desempenho em modo performance!"
+msgstr "Performanță în modul performanță!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "Feriți-vă că veți pierde accesul la SnapShots, sunteți sigur că doriți să ascundeți grub-ul?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Veți ști cum să returnați Grub în caz de eșec?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Veți putea accesa SnapShots fără acces la modul Grafic?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Sunteți complet sigur de această aplicație?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Aplicând, așteptați..."
+
+msgid "Concluído!"
+msgstr "Făcut!"

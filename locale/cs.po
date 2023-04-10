@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Nastavení"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Pokud používáte prohlížeč, restartujte jej, aby se změny projevily."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Dejte si pozor, že ztratíte přístup k SnapShots, jste si jisti, že chcete skrýt grub?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Budete vědět, jak vrátit Grub v případě selhání?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Budete mít přístup k SnapShots bez přístupu k režimu Graph?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Jste si touto aplikací zcela jisti?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Přihláška, počkejte..."
-
-msgid "Concluído!"
-msgstr "Hotový!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Výkon v normálním režimu!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Výkon v rozšířeném režimu!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Výkon v režimu výkonu!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Pokud používáte prohlížeč, restartujte jej, aby se změny projevily."
 
 msgid "Desempenho"
 msgstr "Představení"
@@ -131,5 +110,29 @@ msgstr "Režim výkonu"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS bez fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "Režim Vývojář"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Při softwarovém vykreslování se snižuje kvalita průsvitek."
+
+msgid "Desempenho em modo performance!"
+msgstr "Výkon v režimu výkonu!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "Dejte si pozor, že ztratíte přístup k SnapShots, jste si jisti, že chcete skrýt grub?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Budete vědět, jak vrátit Grub v případě selhání?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Budete mít přístup k SnapShots bez přístupu k režimu Graph?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Jste si touto aplikací zcela jisti?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Přihláška, počkejte..."
+
+msgid "Concluído!"
+msgstr "Hotový!"

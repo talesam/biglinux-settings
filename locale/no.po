@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "justeringer"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Hvis du bruker en leser, starter du den på nytt for å ta i bruk endringene."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Pass på at du mister tilgangen til SnapShots, er du sikker på at du vil skjule grub?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Vil du vite hvordan du returnerer Grub i tilfelle feil?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Vil du kunne få tilgang til SnapShots uten tilgang til Graph-modus?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Er du helt sikker på denne applikasjonen?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Søker, venter..."
-
-msgid "Concluído!"
-msgstr "Gjort!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Ytelse i normal modus!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Ytelse i optimalisert modus!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Ytelse i ytelsesmodus!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Hvis du bruker en leser, starter du den på nytt for å ta i bruk endringene."
 
 msgid "Desempenho"
 msgstr "Prestasjon"
@@ -131,5 +110,29 @@ msgstr "Ytelsesmodus"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS uten fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "Utviklermodus"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Ved å bruke programvaregjengivelse reduseres kvaliteten på transparentene."
+
+msgid "Desempenho em modo performance!"
+msgstr "Ytelse i ytelsesmodus!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "Pass på at du mister tilgangen til SnapShots, er du sikker på at du vil skjule grub?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Vil du vite hvordan du returnerer Grub i tilfelle feil?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Vil du kunne få tilgang til SnapShots uten tilgang til Graph-modus?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Er du helt sikker på denne applikasjonen?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Søker, venter..."
+
+msgid "Concluído!"
+msgstr "Gjort!"

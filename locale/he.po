@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "tweaks"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את השינויים."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "היזהר שתאבד את הגישה ל- SnapShots, האם אתה בטוח שאתה רוצה להסתיר את הגרגר?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "האם תדעו להחזיר את Grub במקרה של כישלון?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "האם תוכל לגשת ל- SnapShots ללא גישה למצב גרף?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "האם אתה בטוח לחלוטין ביישום זה?"
-
-msgid "Aplicando, aguarde..."
-msgstr "הגשת מועמדות, חכה..."
-
-msgid "Concluído!"
-msgstr "לעשות!"
-
 msgid "Desempenho em modo normal!"
 msgstr "ביצועים במצב רגיל!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "ביצועים במצב מותאם!"
 
-msgid "Desempenho em modo performance!"
-msgstr "ביצועים במצב ביצועים!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את השינויים."
 
 msgid "Desempenho"
 msgstr "ביצועים"
@@ -129,5 +108,29 @@ msgstr "מצב ביצועים"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS ללא fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "מצב מפתח"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "על ידי שימוש בעיבוד תוכנה, איכות השקפים מופחתת."
+
+msgid "Desempenho em modo performance!"
+msgstr "ביצועים במצב ביצועים!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "היזהר שתאבד את הגישה ל- SnapShots, האם אתה בטוח שאתה רוצה להסתיר את הגרגר?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "האם תדעו להחזיר את Grub במקרה של כישלון?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "האם תוכל לגשת ל- SnapShots ללא גישה למצב גרף?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "האם אתה בטוח לחלוטין ביישום זה?"
+
+msgid "Aplicando, aguarde..."
+msgstr "הגשת מועמדות, חכה..."
+
+msgid "Concluído!"
+msgstr "לעשות!"

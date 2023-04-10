@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Ayarlar"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "SnapShot'lara erişiminizi kaybedeceğinize dikkat edin, grubu gizlemek istediğinizden emin misiniz?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Başarısızlık durumunda Grub'u nasıl iade edeceğinizi bilecek misiniz?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Grafik moduna erişmeden SnapShots'a erişebilecek misiniz?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Bu uygulamadan tamamen emin misiniz?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Başvuru, bekle..."
-
-msgid "Concluído!"
-msgstr "Yapılmış!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Normal modda performans!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Gelişmiş modda performans!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Performans modunda performans!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Tarayıcı kullanıyorsanız, değişiklikleri uygulamak için tarayıcıyı yeniden başlatın."
 
 msgid "Desempenho"
 msgstr "Performans"
@@ -131,5 +110,29 @@ msgstr "Performans modu"
 msgid "BTRFS sem fsync"
 msgstr "Fsync olmadan BTRFS"
 
+msgid "Modo Desenvolvedor"
+msgstr "Geliştirici Modu"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
+
+msgid "Desempenho em modo performance!"
+msgstr "Performans modunda performans!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "SnapShot'lara erişiminizi kaybedeceğinize dikkat edin, grubu gizlemek istediğinizden emin misiniz?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Başarısızlık durumunda Grub'u nasıl iade edeceğinizi bilecek misiniz?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Grafik moduna erişmeden SnapShots'a erişebilecek misiniz?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Bu uygulamadan tamamen emin misiniz?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Başvuru, bekle..."
+
+msgid "Concluído!"
+msgstr "Yapılmış!"

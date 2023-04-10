@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Ustawienia"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Jeśli używasz przeglądarki, uruchom ją ponownie, aby zastosować zmiany."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Uważaj, stracisz dostęp do SnapShots, czy na pewno chcesz ukryć gruba?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Czy będziesz wiedział, jak zwrócić Gruba w przypadku awarii?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Czy będziesz mieć dostęp do SnapShots bez dostępu do trybu Graph?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Czy jesteś całkowicie pewien tej aplikacji?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Aplikując, czekaj..."
-
-msgid "Concluído!"
-msgstr "Gotowy!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Wydajność w trybie normalnym!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Wydajność w trybie rozszerzonym!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Wydajność w trybie wydajnościowym!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Jeśli używasz przeglądarki, uruchom ją ponownie, aby zastosować zmiany."
 
 msgid "Desempenho"
 msgstr "Wydajność"
@@ -131,5 +110,29 @@ msgstr "Tryb wydajności"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS bez fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "Tryb dewelopera"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Przy renderowaniu programowym jakość przezroczy jest obniżona."
+
+msgid "Desempenho em modo performance!"
+msgstr "Wydajność w trybie wydajnościowym!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "Uważaj, stracisz dostęp do SnapShots, czy na pewno chcesz ukryć gruba?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Czy będziesz wiedział, jak zwrócić Gruba w przypadku awarii?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Czy będziesz mieć dostęp do SnapShots bez dostępu do trybu Graph?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Czy jesteś całkowicie pewien tej aplikacji?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Aplikując, czekaj..."
+
+msgid "Concluído!"
+msgstr "Gotowy!"

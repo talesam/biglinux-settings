@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Instellingen"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Als u een browser gebruikt, start u deze opnieuw op om de wijzigingen toe te passen."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Pas op dat je de toegang tot SnapShots verliest, weet je zeker dat je de grub wilt verbergen?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Weet je hoe je Grub kunt retourneren in geval van falen?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Heb je toegang tot SnapShots zonder toegang tot de Graph-modus?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Ben je helemaal zeker van deze toepassing?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Solliciteren, wachten..."
-
-msgid "Concluído!"
-msgstr "Klaar!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Prestaties in de normale modus!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Prestaties in verbeterde modus!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Prestaties in de prestatiemodus!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Als u een browser gebruikt, start u deze opnieuw op om de wijzigingen toe te passen."
 
 msgid "Desempenho"
 msgstr "Voorstelling"
@@ -131,5 +110,29 @@ msgstr "Prestatiemodus"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS zonder fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "Ontwikkelaarsmodus"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "Met software rendering wordt de kwaliteit van transparanten verminderd."
+
+msgid "Desempenho em modo performance!"
+msgstr "Prestaties in de prestatiemodus!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "Pas op dat je de toegang tot SnapShots verliest, weet je zeker dat je de grub wilt verbergen?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Weet je hoe je Grub kunt retourneren in geval van falen?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Heb je toegang tot SnapShots zonder toegang tot de Graph-modus?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Ben je helemaal zeker van deze toepassing?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Solliciteren, wachten..."
+
+msgid "Concluído!"
+msgstr "Klaar!"

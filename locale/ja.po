@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "設定"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "ブラウザーを使用している場合は、ブラウザーを再始動して変更を適用します。"
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "スナップショットにアクセスできなくなることに注意してください、グラブを非表示にしてもよろしいですか?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "失敗した場合にGrubを返す方法を知っていますか?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "グラフモードにアクセスせずにスナップショットにアクセスできますか?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "あなたはこのアプリケーションを完全に確信していますか?"
-
-msgid "Aplicando, aguarde..."
-msgstr "適用中、待機中..."
-
-msgid "Concluído!"
-msgstr "完成です！"
-
 msgid "Desempenho em modo normal!"
 msgstr "ノーマルモードでのパフォーマンス!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "エンハンスドモードでのパフォーマンス!"
 
-msgid "Desempenho em modo performance!"
-msgstr "パフォーマンスモードでのパフォーマンス!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "ブラウザーを使用している場合は、ブラウザーを再始動して変更を適用します。"
 
 msgid "Desempenho"
 msgstr "パフォーマンス"
@@ -129,5 +108,29 @@ msgstr "パフォーマンスモード"
 msgid "BTRFS sem fsync"
 msgstr "fsync を使用しない BTRFS"
 
+msgid "Modo Desenvolvedor"
+msgstr "開発者モード"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画質が低下します。"
+
+msgid "Desempenho em modo performance!"
+msgstr "パフォーマンスモードでのパフォーマンス!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "スナップショットにアクセスできなくなることに注意してください、グラブを非表示にしてもよろしいですか?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "失敗した場合にGrubを返す方法を知っていますか?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "グラフモードにアクセスせずにスナップショットにアクセスできますか?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "あなたはこのアプリケーションを完全に確信していますか?"
+
+msgid "Aplicando, aguarde..."
+msgstr "適用中、待機中..."
+
+msgid "Concluído!"
+msgstr "完成です！"

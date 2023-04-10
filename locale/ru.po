@@ -19,35 +19,14 @@ msgstr ""
 msgid "Ajustes"
 msgstr "Настройки"
 
-msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
-msgstr "Если вы используете браузер, перезапустите его, чтобы применить изменения."
-
-msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
-msgstr "Остерегайтесь, вы потеряете доступ к SnapShots, вы уверены, что хотите скрыть грязь?"
-
-msgid "Você saberá retornar o Grub em caso de falha?"
-msgstr "Будете ли вы знать, как вернуть Grub в случае неудачи?"
-
-msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
-msgstr "Сможете ли вы получить доступ к SnapShots без доступа к режиму Graph?"
-
-msgid "Você está completamente seguro dessa aplicação?"
-msgstr "Вы полностью уверены в этом приложении?"
-
-msgid "Aplicando, aguarde..."
-msgstr "Подать заявку, подождать..."
-
-msgid "Concluído!"
-msgstr "Договорились!"
-
 msgid "Desempenho em modo normal!"
 msgstr "Производительность в нормальном режиме!"
 
 msgid "Desempenho em modo otimizado!"
 msgstr "Производительность в усиленном режиме!"
 
-msgid "Desempenho em modo performance!"
-msgstr "Производительность в режиме производительности!"
+msgid "Se estiver utilizando algum navegador, reinicie-o para aplicar as alterações."
+msgstr "Если вы используете браузер, перезапустите его, чтобы применить изменения."
 
 msgid "Desempenho"
 msgstr "Производительность"
@@ -131,5 +110,29 @@ msgstr "Режим производительности"
 msgid "BTRFS sem fsync"
 msgstr "BTRFS без fsync"
 
+msgid "Modo Desenvolvedor"
+msgstr "Режим разработчика"
+
 msgid "Utilizando renderização por software, a qualidade das transparências está reduzida."
 msgstr "При использовании программного рендеринга качество прозрачности снижается."
+
+msgid "Desempenho em modo performance!"
+msgstr "Производительность в режиме производительности!"
+
+msgid "Cuidado você perderá acesso aos SnapShots, tem certeza que deseja ocultar o grub?"
+msgstr "Остерегайтесь, вы потеряете доступ к SnapShots, вы уверены, что хотите скрыть грязь?"
+
+msgid "Você saberá retornar o Grub em caso de falha?"
+msgstr "Будете ли вы знать, как вернуть Grub в случае неудачи?"
+
+msgid "Você saberá acessar os SnapShots sem acesso ao modo Gráfico?"
+msgstr "Сможете ли вы получить доступ к SnapShots без доступа к режиму Graph?"
+
+msgid "Você está completamente seguro dessa aplicação?"
+msgstr "Вы полностью уверены в этом приложении?"
+
+msgid "Aplicando, aguarde..."
+msgstr "Подать заявку, подождать..."
+
+msgid "Concluído!"
+msgstr "Договорились!"
