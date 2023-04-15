@@ -63,12 +63,10 @@ fi
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
 
   #Modo Performance
-  if [ "$XDG_CURRENT_DESKTOP" = "KDE" ]; then
-    if [ "$(kreadconfig5  --group "Compositing" --key "Enabled" --file "$HOME/.config/kwinrc")" = "false" ]; then
-        checked_performance="checked"
-    else
-        checked_performance="unchecked"
-    fi
+  if [ "$(kreadconfig5  --group "Compositing" --key "Enabled" --file "$HOME/.config/kwinrc")" = "false" ]; then
+      checked_performance="checked"
+  else
+      checked_performance="unchecked"
   fi
   
   #Botões da janela no lado esquerdo
@@ -222,6 +220,7 @@ cat << EOF
 EOF
 
 #Modo Performance Start
+
   if [ "$(kreadconfig5  --group "Compositing" --key "Enabled" --file "$HOME/.config/kwinrc")" = "false" ]; then
 cat << EOF
               <li>
@@ -247,7 +246,7 @@ cat << EOF
                 </div>
               </li>            
 EOF
-  fi
+fi
 #Modo Performance End
 
 
@@ -391,14 +390,14 @@ cat << EOF
                   $Inverted_mouse_scroll
                 </div>
 EOF
-  if [ -n "$checked_scrool_natural" ];then
+if [ -n "$checked_scrool_natural" ];then
 cat << EOF
                 <div class="button-wrapper">
                   <input id="desktop2" onclick="_run('./mouse.run')" type="checkbox" class="switch" style="top: 3px;" $checked_scrool_natural>
                 </div>
               </li>
 EOF
-  fi
+fi
 #Inverter rolagem do mouse  End
 
 
@@ -410,14 +409,14 @@ cat << EOF
                   $Inverted_touchpad_scroll
                 </div>
 EOF
-  if [ -n "$checked_scrool_natural" ];then
+if [ -n "$checked_scrool_natural" ];then
 cat << EOF
                 <div class="button-wrapper">
                   <input id="desktop2" onclick="_run('./touchpad.run')" type="checkbox" class="switch" style="top: 3px;" $checked_touchpad_natural>
                 </div>
               </li>
 EOF
-  fi
+fi
 #Inverter rolagem do mouse End
 
 #Indexar Arquivos (Baloo) Start
@@ -428,34 +427,34 @@ cat << EOF
                   $Search_files
                 </div>
 EOF
-  if [ -n "$checked_search" ];then
+if [ -n "$checked_search" ];then
 cat << EOF
                 <div class="button-wrapper">
                   <input id="desktop3" onclick="_run('./search.run')" type="checkbox" class="switch" style="top: 3px;" $checked_search>
                 </div>
               </li>              
 EOF
-  fi
+fi
 #Pesquisar Arquivos (Baloo) End
 
 
 #Bloquear edição da Area de Trabalho Start
-  if [ -e "$HOME/.config/lockplasma" ]; then
+if [ -e "$HOME/.config/lockplasma" ]; then
 cat << EOF
               <li>
                 <div class="products">
                   <svg viewBox="0 0 576 512"><path fill="currentColor" id="iconLock_the_workspace" d="M80 192V144C80 64.47 144.5 0 224 0C303.5 0 368 64.47 368 144V192H384C419.3 192 448 220.7 448 256V448C448 483.3 419.3 512 384 512H64C28.65 512 0 483.3 0 448V256C0 220.7 28.65 192 64 192H80zM144 192H304V144C304 99.82 268.2 64 224 64C179.8 64 144 99.82 144 144V192z"></path></svg>
                   $Lock_the_workspace
 EOF
-  else
+else
 cat << EOF
               <li>
                 <div class="products">
                   <svg viewBox="0 0 576 512"><path fill="currentColor" id="iconLock_the_workspace" d="M352 192H384C419.3 192 448 220.7 448 256V448C448 483.3 419.3 512 384 512H64C28.65 512 0 483.3 0 448V256C0 220.7 28.65 192 64 192H288V144C288 64.47 352.5 0 432 0C511.5 0 576 64.47 576 144V192C576 209.7 561.7 224 544 224C526.3 224 512 209.7 512 192V144C512 99.82 476.2 64 432 64C387.8 64 352 99.82 352 144V192z"></path></svg>
                   $Lock_the_workspace
 EOF
-  fi
-  if [ -n "$checked_lock_desktop" ];then
+fi
+if [ -n "$checked_lock_desktop" ];then
 cat << EOF
                 </div>        
                 <div class="button-wrapper">
@@ -463,7 +462,7 @@ cat << EOF
                 </div>
               </li>
 EOF
-  fi
+fi
 #Bloquear edição da Area de Trabalho End
 
 #Ocultar Grub Start
