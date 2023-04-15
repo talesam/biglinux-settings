@@ -383,6 +383,7 @@ fi
 
 #Inverter rolagem do mouse Start
 #KDE Plasma Start
+if [ "$XDG_CURRENT_DESKTOP" = "KDE" ]; then
 cat << EOF
               <li>
                 <div class="products">
@@ -398,10 +399,12 @@ cat << EOF
               </li>
 EOF
 fi
+fi
 #Inverter rolagem do mouse  End
 
 
 #Inverter rolagem do touchpad Start
+if [ "$XDG_CURRENT_DESKTOP" = "KDE" ]; then
 cat << EOF
               <li>
                 <div class="products">
@@ -417,9 +420,11 @@ cat << EOF
               </li>
 EOF
 fi
+fi
 #Inverter rolagem do mouse End
 
 #Indexar Arquivos (Baloo) Start
+if [ "$XDG_CURRENT_DESKTOP" = "KDE" ]; then
 cat << EOF
               <li>
                 <div class="products">
@@ -435,10 +440,12 @@ cat << EOF
               </li>              
 EOF
 fi
+fi
 #Pesquisar Arquivos (Baloo) End
 
 
 #Bloquear edição da Area de Trabalho Start
+if [ "$XDG_CURRENT_DESKTOP" = "KDE" ]; then
 if [ -e "$HOME/.config/lockplasma" ]; then
 cat << EOF
               <li>
@@ -462,6 +469,7 @@ cat << EOF
                 </div>
               </li>
 EOF
+fi
 fi
 #Bloquear edição da Area de Trabalho End
 
