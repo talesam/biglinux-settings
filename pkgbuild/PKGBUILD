@@ -8,6 +8,9 @@ license=('GPL')
 pkgdesc="Essential package to BigLinux KDE session"
 depends=('bigsudo' 'disable-fsync' 'auto-tweaks-browser' 'xorg-xset' 'kdialog')
 url="https://github.com/biglinux/$pkgname"
+conflicts=('biglinux-settings-gnome')
+replaces=('biglinux-settings-gnome')
+provides=('biglinux-settings-gnome')
 source=("git+${url}.git")
 md5sums=(SKIP)
 if [ -e "${pkgname}.install" ];then
