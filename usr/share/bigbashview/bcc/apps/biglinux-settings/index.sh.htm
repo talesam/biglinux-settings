@@ -59,7 +59,7 @@ if [ "$(glxinfo | grep llvmpipe)" != "" ]; then
 fi
 
 
-#KDE Plasma Start
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
 
   #Modo Performance
@@ -113,12 +113,18 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
   fi
 
 fi
-#KDE Plasma End
+#ONLY in KDE Plasma End
 
 
 
+#ONLY in XXX Star
 
-## FOR ALL ##
+
+#ONLY in XXX End
+
+
+
+## FOR ALL DEs ##
 #BTRFS sem fsync
 if [ "$(grep 'disable-fsync.so' /etc/ld.so.preload)" != "" ]; then
     checked_disablefsync="checked"

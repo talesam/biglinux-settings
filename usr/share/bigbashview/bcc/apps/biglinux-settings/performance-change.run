@@ -1,21 +1,21 @@
 #!/bin/bash
-#INPUTTRUE=$(grep -w "Enabled=true" ~/.config/kwinrc | head -n 1)
-#INPUTFALSE=$(grep -w "Enabled=false" ~/.config/kwinrc | head -n 1)
-#if [ -n "$INPUTTRUE" ]; then
 
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
 	if [ "$(kreadconfig5  --group "Compositing" --key "Enabled" --file "$HOME/.config/kwinrc")" = "false" ]; then
-
-	#Ativa o performance
-	qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
-	kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "true"
-	    
-	#elif [ -n "$INPUTFALSE" ]; then
+		#Ativa o performance
+		qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
+		kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "true"
+		#elif [ -n "$INPUTFALSE" ]; then
 	else
-
-	#Desativa o performance
-	qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
-	kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "false"    
-
+		#Desativa o performance
+		qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "Suspend Compositing"
+		kwriteconfig5 --file ~/.config/kwinrc --group Compositing --key "Enabled" "false"    
 	fi
 fi
+#ONLY in KDE Plasma End
+
+
+#ONLY in XXX Star
+
+#ONLY in XXX End

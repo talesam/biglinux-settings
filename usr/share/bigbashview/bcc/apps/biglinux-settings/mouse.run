@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
     if [ "$(kreadconfig5  --group "Mouse" --key "XLbInptNaturalScroll" --file "$HOME/.config/kcminputrc")" = "true" ]; then
         kwriteconfig5 --group "Mouse" --key "XLbInptNaturalScroll" --file "$HOME/.config/kcminputrc" "false"
@@ -8,6 +9,11 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
         kwriteconfig5 --group "Mouse" --key "XLbInptNaturalScroll" --file "$HOME/.config/kcminputrc" "true"
     #     kcminit mouse
     fi
-
     kcminit_startup
 fi
+#ONLY in KDE Plasma End
+
+
+#ONLY in XXX Star
+
+#ONLY in XXX End

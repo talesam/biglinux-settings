@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
     if [ -e "$HOME/.config/lockplasma" ]; then
         rm -f "$HOME/.config/lockplasma"
@@ -11,3 +12,9 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
         qdbus org.kde.plasmashell /PlasmaShell evaluateScript "lockCorona(true)"
     fi
 fi
+#ONLY in KDE Plasma End
+
+
+#ONLY in XXX Star
+
+#ONLY in XXX End

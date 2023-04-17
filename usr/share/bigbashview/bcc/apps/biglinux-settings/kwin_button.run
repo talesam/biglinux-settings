@@ -1,7 +1,7 @@
 #!/bin/bash
 
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
-
     if [ "$(grep 'FSM' ~/.config/kwinrc)" = "" ]; then
         kwriteconfig5 --file ~/.config/gtk-3.0/settings.ini --group Settings --key "gtk-decoration-layout" "close,maximize,minimize:menu"
         kwriteconfig5 --group "org.kde.kdecoration2" --key "ButtonsOnLeft" --file "$HOME/.config/kwinrc" "XIA"
@@ -14,3 +14,9 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
         qdbus org.kde.KWin /KWin org.kde.KWin.reconfigure
     fi
 fi
+#ONLY in KDE Plasma End
+
+
+#ONLY in XXX Star
+
+#ONLY in XXX End

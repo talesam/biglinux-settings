@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
     if [ "$(kwriteconfig5 --group "SynPS/2 Synaptics TouchPad" --key "naturalScroll" --file "$HOME/.config/touchpadxlibinputrc")" = "true" ]; then
         kwriteconfig5 --group "SynPS/2 Synaptics TouchPad" --key "naturalScroll" --file "$HOME/.config/touchpadxlibinputrc" "false"
@@ -12,3 +13,9 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
     kcminit
     #kcminit_startup
 fi
+#ONLY in KDE Plasma End
+
+
+#ONLY in XXX Star
+
+#ONLY in XXX End

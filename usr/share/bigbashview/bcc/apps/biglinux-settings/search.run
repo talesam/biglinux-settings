@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#ONLY in KDE Plasma Start
 if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
     if [ "$(LANG=C balooctl status 2>&1| grep 'is running')" = "" ]; then
         balooctl enable
@@ -23,3 +24,9 @@ if [ -n "$(echo $DESKTOP_SESSION | grep plasma)" ];then
         balooctl disable
     fi
 fi
+#ONLY in KDE Plasma End
+
+
+#ONLY in XXX Star
+
+#ONLY in XXX End
